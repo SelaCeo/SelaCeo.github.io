@@ -1,4 +1,4 @@
-﻿#EXTM3U8
+﻿#EXTM3U
 #EXTINF:-1,00_ОБНОВЛЕНИЕ: 31.10.2025г 11:20
 https://github.com/SelaCeo/SelaCeo.github.io/raw/09553567b1b1b70c38574b45de11db8ded59cc10/changelog.mp4
 #EXTINF:-1,Первый канал HD
@@ -81,3 +81,4 @@ http://tv.ttk.mx:9141
 https://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8
 #EXTINF:-1,Солнце
 http://tv.mediacdn.ru/live/solntse/playlist.m3u8
+
