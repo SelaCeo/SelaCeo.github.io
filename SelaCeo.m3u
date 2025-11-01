@@ -1,0 +1,83 @@
+﻿#EXTM3U8
+#EXTINF:-1,00_ОБНОВЛЕНИЕ: 31.10.2025г 11:20
+https://github.com/SelaCeo/SelaCeo.github.io/raw/09553567b1b1b70c38574b45de11db8ded59cc10/changelog.mp4
+#EXTINF:-1,Первый канал HD
+https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+#EXTINF:-1,Россия 1
+http://195.26.83.96:7013/play/13/index.m3u8
+#EXTINF:-1,Матч!
+http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
+#EXTINF:-1,НТВ
+http://185.46.16.239:8000/NTV
+#EXTINF:-1,НТВ HD
+http://178.217.72.72/NTV_HD/index.m3u8
+#EXTINF:-1,Пятый канал
+http://193.25.8.59:8000/5
+#EXTINF:-1,Россия К FHD
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
+#EXTINF:-1,Россия 24
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/index.m3u8
+#EXTINF:-1,Карусель FHD
+http://31.148.48.15/Karusel_HD/index.m3u8
+#EXTINF:-1,Карусель HD
+http://188.190.222.53/Karusel/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1,ОТР
+http://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
+#EXTINF:-1,ТВЦ FHD
+http://87.76.32.36:8001/tvc
+#EXTINF:-1,РЕН ТВ HD
+http://95.47.156.60:8000/play/11/index.m3u8
+#EXTINF:-1,Спас
+http://185.46.16.239:8000/Spas
+#EXTINF:-1,СТС HD
+http://188.190.222.53/CTC_HD/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1,Домашний
+http://217.25.80.16/Domasnii/mono.m3u8
+#EXTINF:-1,Домашний
+http://185.46.16.239:8000/Domashniy
+#EXTINF:-1,ТВ3
+https://streaming.televizor-24-tochka.ru/live/18.m3u8
+#EXTINF:-1,ТВ3 FHD
+http://178.217.72.72/TV3/index.m3u8
+#EXTINF:-1,Пятница
+http://95.47.156.60:8000/play/16/index.m3u8
+#EXTINF:-1,Пятница FHD
+http://178.217.72.72/Pyatnitsa/index.m3u8
+#EXTINF:-1,ЗВЕЗДА HD
+http://139.28.255.188:8080/zvezda/index.m3u8
+#EXTINF:-1,Мир HD
+http://tv.ttk.mx:9140
+#EXTINF:-1,ТНТ FHD
+http://217.25.80.16/TNT_HD/mono.m3u8
+#EXTINF:-1,МузТВ
+https://streaming.televizor-24-tochka.ru/live/20.m3u8
+#EXTINF:-1,МузТВ
+https://livetv.mylifeisgood.net.ru/channels/muztvhd.m3u8
+#EXTINF:-1,ТНВ-Татарстан
+https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_TNVT/variant.m3u8
+#EXTINF:-1,Челны-ТВ
+https://mhd116.iptv2022.com/p/qxOopeo72ExXPEYa746gDw,1762024273/streaming/tatar24_chelny/324/5/tracks-v1a1/mono.m3u8?WithCaption
+#EXTINF:-1,Шаян ТВ (Татарстан)
+https://shayan.bonus-tv.ru/cdn/shayan/playlist.m3u8
+#EXTINF:-1,Эфир
+https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_EFIR/variant.m3u8
+#EXTINF:-1,TMTV
+http://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_KZN_TMTV/variant.m3u8?version2
+#EXTINF:-1,SeleCaoTV Фильмы
+http://195.9.195.3/hls/163253.m3u8
+#EXTINF:-1,Первый канал FHD
+http://91.194.191.241:8081/chid164/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Россия 1 FHD
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
+#EXTINF:-1,Shopping Live (576p) [Not 24/7]
+http://serv30.vintera.tv:8081/shoppinglive/shoppinglive_stream/playlist.m3u8
+#EXTINF:-1,Мой Мир
+http://moymir.ru/hls/onair.m3u8
+#EXTINF:-1,Че!
+http://31.148.48.15/Che/index.m3u8
+#EXTINF:-1,Че!
+http://tv.ttk.mx:9141
+#EXTINF:-1,Ювелирочка ТВ
+https://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8
+#EXTINF:-1,Солнце
+http://tv.mediacdn.ru/live/solntse/playlist.m3u8
