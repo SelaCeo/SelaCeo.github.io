@@ -471,7 +471,7 @@ http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
 https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-chno="157" tvg-id="tnv-planeta" group-title="Татарстан",ТНВ-Планета
-http://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_TNV_PLANETA_URAL/variant.m3u8
+http://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_TNV_PLANETA_URAL/variant.m3u8?version=2
 
 #EXTINF:-1 tvg-chno="158" tvg-id="belarus24" group-title="Федеральные",Беларусь 24
 https://edge50.dc.beltelecom.by/ngtrk/smil:belarus24.smil/chunklist_b5160000_sleng.m3u8
@@ -652,6 +652,7 @@ http://217.25.80.16/TV1000_Action_HD/mono.m3u8
 
 #EXTINF:-1 tvg-chno="217" tvg-id="selecao-filmy" group-title="Кинозалы",SeleCaoTV Фильмы
 https://live20.bozztv.com/akamaissh101/ssh101/kucunucum9ym9y/playlist.m3u8
+
 
 
 
