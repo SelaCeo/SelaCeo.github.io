@@ -23,7 +23,7 @@ http://46.151.151.250:9005
 #EXTINF:-1 tvg-chno="7" tvg-id="rossia-24" group-title="Новости",Россия 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/index.m3u8
 
-#EXTINF:-1 tvg-chno="8" tvg-id="karusel" group-title="Детские",Карусель HD
+#EXTINF:-1 tvg-chno="8" tvg-id="karusel" tvg-logo="http://only4.tv/ch/822.png" group-title="Детские",Карусель
 http://31.148.48.15/Karusel_HD/index.m3u8
 
 #EXTINF:-1 tvg-chno="9" tvg-id="karusel" group-title="Детские",Карусель HD
@@ -320,6 +320,7 @@ http://95.66.188.74:80/O/mono.m3u8
 http://94.232.127.28:8080/tlc/index.m3u8
 #EXTINF:-1,Рыжий
 http://46.8.46.14/Ryzhiy/index.m3u8
+
 
 
 
