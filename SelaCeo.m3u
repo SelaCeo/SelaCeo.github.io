@@ -68,17 +68,17 @@ https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_TNVT/variant.m3u8
 #EXTINF:-1 tvg-chno="22" tvg-id="shayan-tv" group-title="Татарстан",Шаян ТВ (Татарстан)
 https://shayan.bonus-tv.ru/cdn/shayan/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="23" tvg-id="efir-chelny" group-title="Татарстан",Эфир ТВ (Набережные Челны) [HD]
+#EXTINF:-1 tvg-chno="23" tvg-id="efir-chelny" tvg-name="Эфир ТВ (Набережные Челны) HD" group-title="Татарстан", Эфир
 http://tele2dvrnat01-02.cdnvideo.ru/stream/TatTVR_efir_chelny/hls/1280x720@2704/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="24" tvg-id="tmtv" group-title="Татарстан",TMTV
+#EXTINF:-1 tvg-chno="24" tvg-id="efir-kzn" tvg-name="Эфир ТВ (Казань)" group-title="Татарстан",Эфир
+https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_EFIR/variant.m3u8?version=2
+
+#EXTINF:-1 tvg-chno="25" tvg-id="tmtv" group-title="Татарстан",TMTV
 http://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_KZN_TMTV/variant.m3u8?version=2
 
-#EXTINF:-1 tvg-chno="25" tvg-id="tatarstan24-chelny" group-title="Татарстан",Татарстан 24 Набережные Челны
+#EXTINF:-1 tvg-chno="26" tvg-id="tatarstan24-chelny" group-title="Татарстан",Татарстан 24 Набережные Челны
 http://89.251.159.37:8080/hls/kunelfm2.m3u8
-
-#EXTINF:-1 tvg-chno="26" tvg-id="efir-kzn" group-title="Татарстан",Эфир
-https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_EFIR/variant.m3u8
 
 #EXTINF:-1 tvg-chno="41" tvg-id="pervy-hd" group-title="Федеральные",Первый канал HD
 http://91.194.191.241:8081/chid164/tracks-v1a1/mono.m3u8
@@ -652,6 +652,7 @@ http://217.25.80.16/TV1000_Action_HD/mono.m3u8
 
 #EXTINF:-1 tvg-chno="217" tvg-id="selecao-filmy" group-title="Кинозалы",SeleCaoTV Фильмы
 https://live20.bozztv.com/akamaissh101/ssh101/kucunucum9ym9y/playlist.m3u8
+
 
 
 
