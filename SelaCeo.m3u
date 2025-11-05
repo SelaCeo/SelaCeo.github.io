@@ -20,6 +20,9 @@ http://193.25.8.59:8000/5
 #EXTINF:-1 tvg-chno="6" tvg-id="kultura" group-title="Федеральные",Россия К
 http://46.151.151.250:9005
 
+#EXTINF:-1 tvg-chno="7" tvg-id="rossia-24" group-title="Новости",Россия 24
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/index.m3u8
+
 
 #EXTINF:-1,11_SeleCaoTV Фильмы
 https://live20.bozztv.com/akamaissh101/ssh101/kucunucum9ym9y/playlist.m3u8?WithCaption
@@ -105,8 +108,7 @@ http://95.47.156.60:8000/play/11/index.m3u8
 http://95.47.156.60:8000/play/11/index.m3u8
 #EXTINF:-1,Россия 1 FHD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
-#EXTINF:-1,Россия 24
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/index.m3u8
+
 #EXTINF:-1,Русский Иллюзион
 http://91.194.191.241:8081/chid81/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Русский иллюзион
@@ -315,6 +317,7 @@ http://95.66.188.74:80/O/mono.m3u8
 http://94.232.127.28:8080/tlc/index.m3u8
 #EXTINF:-1,Рыжий
 http://46.8.46.14/Ryzhiy/index.m3u8
+
 
 
 
