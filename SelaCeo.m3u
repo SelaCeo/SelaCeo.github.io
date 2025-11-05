@@ -6,19 +6,17 @@ http://github.com/SelaCeo/SelaCeo.github.io/raw/09553567b1b1b70c38574b45de11db8d
 http://217.25.80.16/Pervii_Kanal/mono.m3u8
 
 #EXTINF:-1 tvg-chno="2" tvg-id="rossia1" tvg-name="Россия 1" tvg-logo="http://i122.fastpic.org/big/2023/0705/17/1f78a821046a3a5dedc9b714a6e0b717.png" group-title="Федеральные", Россия 1
-#EXTVLCOPT:http-user-agent=SmartTV
 http://195.26.83.96:7013/play/13/index.m3u8
 
 #EXTINF:-1 tvg-chno="3" tvg-id="match-tv" tvg-name="Матч! ТВ" tvg-logo="http://domnet.me/images/picons/tvico_n52.png" group-title="Спортивные",Матч! ТВ
-#EXTVLCOPT:http-user-agent=SmartTV
 http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, tvg-chno="4" tvg-id="ntv" group-title="Федеральные",НТВ
-#EXTVLCOPT:http-user-agent=SmartTV
 http://185.46.16.239:8000/NTV
 
-#EXTINF:-1,05_Пятый канал
+#EXTINF:-1,tvg-chno="5" tvg-id="5kanal-ru" group-title="Федеральные",Пятый канал
 http://193.25.8.59:8000/5
+
 #EXTINF:-1,06_Россия К FHD
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
 #EXTINF:-1,11_SeleCaoTV Фильмы
@@ -315,6 +313,7 @@ http://95.66.188.74:80/O/mono.m3u8
 http://94.232.127.28:8080/tlc/index.m3u8
 #EXTINF:-1,Рыжий
 http://46.8.46.14/Ryzhiy/index.m3u8
+
 
 
 
