@@ -3,6 +3,7 @@
 https://github.com/SelaCeo/SelaCeo.github.io/raw/09553567b1b1b70c38574b45de11db8ded59cc10/changelog.mp4
 
 #EXTINF:-1 tvg-chno="1" tvg-id="pervy" tvg-name="Первый канал HD" tvg-logo="http://i122.fastpic.org/big/2023/0704/13/cd5a5508b20da12d6131cafd8eb23513.png" group-title="Кабельное",Первый
+#EXTVLCOPT:http-user-agent=SmartTV
 http://217.25.80.16/Pervii_Kanal/mono.m3u8
 
 #EXTINF:-1 tvg-chno="2" tvg-id="rossia1" tvg-name="Россия 1" tvg-logo="http://i122.fastpic.org/big/2023/0705/17/1f78a821046a3a5dedc9b714a6e0b717.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Эфирные", Россия 1
@@ -310,4 +311,5 @@ http://95.66.188.74:80/O/mono.m3u8
 http://94.232.127.28:8080/tlc/index.m3u8
 #EXTINF:-1,Рыжий
 http://46.8.46.14/Ryzhiy/index.m3u8
+
 
