@@ -24,10 +24,10 @@ http://46.151.151.250:9005
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/index.m3u8
 
 #EXTINF:-1 tvg-chno="8" tvg-id="karusel" tvg-logo="http://only4.tv/ch/822.png" group-title="Детские",Карусель
-http://31.148.48.15/Karusel_HD/index.m3u8
+http://139.28.255.188:8080/karusel/index.m3u8
 
-#EXTINF:-1 tvg-chno="9" tvg-id="karusel" group-title="Детские",Карусель HD
-http://188.190.222.53/Karusel/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-chno="9" tvg-id="otr" group-title="Федеральные",ОТР
+http://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
 
 
 #EXTINF:-1,11_SeleCaoTV Фильмы
@@ -97,8 +97,7 @@ http://178.217.72.72/Nashe_Novoe_Kino/index.m3u8
 http://178.217.72.72/NTV_HD/index.m3u8
 #EXTINF:-1,НТВ HD
 http://178.217.72.72/NTV_HD/index.m3u8
-#EXTINF:-1,ОТР
-http://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
+
 #EXTINF:-1,Первый канал FHD
 http://91.194.191.241:8081/chid164/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Пятница
@@ -320,6 +319,7 @@ http://95.66.188.74:80/O/mono.m3u8
 http://94.232.127.28:8080/tlc/index.m3u8
 #EXTINF:-1,Рыжий
 http://46.8.46.14/Ryzhiy/index.m3u8
+
 
 
 
