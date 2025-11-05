@@ -30,10 +30,20 @@ http://139.28.255.188:8080/karusel/index.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
 
 #EXTINF:-1 tvg-chno="10" tvg-id="tvcentr" tvg-name="ТВ Центр HD" group-title="Федеральные",ТВ Центр 
-http://87.76.32.36:8001/tvc
+http://46.151.151.250:9008
 
-#EXTINF:-1tvg-chno="11" tvg-id="rentv" tvg-name="РЕН ТВ HD" group-title="Федеральные",РЕН ТВ HD
+#EXTINF:-1 tvg-chno="11" tvg-id="rentv" tvg-name="РЕН ТВ HD" group-title="Федеральные",РЕН ТВ HD
 http://95.47.156.60:8000/play/11/index.m3u8
+
+#EXTINF:-1 tvg-chno="12" tvg-id="spas" tvg-name="Спас ТВ" group-title="Религиозные",Спас
+http://185.46.16.239:8000/Spas
+
+#EXTINF:-1 tvg-chno="13" tvg-id="sts" tvg-name="СТС HD" group-title="Федеральные",СТС HD
+http://188.190.222.53/CTC_HD/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1,tvg-chno="14" tvg-id="domashny" tvg-name="Домашний" group-title="Федеральные",Домашний
+http://185.46.16.239:8000/Domashniy
+
 
 
 #EXTINF:-1,11_SeleCaoTV Фильмы
@@ -64,8 +74,7 @@ https://livetv.mylifeisgood.net.ru/channels/strwc.m3u8
 http://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_KZN_TMTV/variant.m3u8?version2
 #EXTINF:-1,Дом кино
 http://50.7.28.226/8136/index.m3u8
-#EXTINF:-1,Домашний
-http://185.46.16.239:8000/Domashniy
+
 #EXTINF:-1,Домашний
 http://217.25.80.16/Domasnii/mono.m3u8
 #EXTINF:-1,Е ТВ
@@ -130,10 +139,8 @@ http://217.25.80.16/Fox_Life/mono.m3u8
 http://217.25.80.16/fox_life_hd/mono.m3u8
 #EXTINF:-1,Солнце
 http://tv.mediacdn.ru/live/solntse/playlist.m3u8
-#EXTINF:-1,Спас
-http://185.46.16.239:8000/Spas
-#EXTINF:-1,СТС HD
-http://188.190.222.53/CTC_HD/tracks-v1a1/mono.ts.m3u8
+
+
 #EXTINF:-1,СТС Love
 http://194.143.148.28:8080/CTC_LOVE/tracks-v1a1/mono.m3u8
 #EXTINF:-1,ТВ3
@@ -323,6 +330,7 @@ http://95.66.188.74:80/O/mono.m3u8
 http://94.232.127.28:8080/tlc/index.m3u8
 #EXTINF:-1,Рыжий
 http://46.8.46.14/Ryzhiy/index.m3u8
+
 
 
 
