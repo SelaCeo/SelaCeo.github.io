@@ -29,6 +29,12 @@ http://139.28.255.188:8080/karusel/index.m3u8
 #EXTINF:-1 tvg-chno="9" tvg-id="otr" group-title="Федеральные",ОТР
 http://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
 
+#EXTINF:-1 tvg-chno="10" tvg-id="tvcentr" tvg-name="ТВ Центр HD" group-title="Федеральные",ТВ Центр 
+http://87.76.32.36:8001/tvc
+
+#EXTINF:-1tvg-chno="11" tvg-id="rentv" tvg-name="РЕН ТВ HD" group-title="Федеральные",РЕН ТВ HD
+http://95.47.156.60:8000/play/11/index.m3u8
+
 
 #EXTINF:-1,11_SeleCaoTV Фильмы
 https://live20.bozztv.com/akamaissh101/ssh101/kucunucum9ym9y/playlist.m3u8?WithCaption
@@ -104,8 +110,7 @@ http://91.194.191.241:8081/chid164/tracks-v1a1/mono.m3u8
 http://95.47.156.60:8000/play/16/index.m3u8
 #EXTINF:-1,Пятница FHD
 http://178.217.72.72/Pyatnitsa/index.m3u8
-#EXTINF:-1,РЕН ТВ HD
-http://95.47.156.60:8000/play/11/index.m3u8
+
 #EXTINF:-1,РЕН ТВ HD
 http://95.47.156.60:8000/play/11/index.m3u8
 #EXTINF:-1,Россия 1 FHD
@@ -135,8 +140,7 @@ http://194.143.148.28:8080/CTC_LOVE/tracks-v1a1/mono.m3u8
 https://streaming.televizor-24-tochka.ru/live/18.m3u8
 #EXTINF:-1,ТВ3 FHD
 http://178.217.72.72/TV3/index.m3u8
-#EXTINF:-1,ТВЦ FHD
-http://87.76.32.36:8001/tvc
+
 #EXTINF:-1,ТНВ-Татарстан
 https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_TNVT/variant.m3u8
 #EXTINF:-1,ТНТ FHD
@@ -319,6 +323,7 @@ http://95.66.188.74:80/O/mono.m3u8
 http://94.232.127.28:8080/tlc/index.m3u8
 #EXTINF:-1,Рыжий
 http://46.8.46.14/Ryzhiy/index.m3u8
+
 
 
 
