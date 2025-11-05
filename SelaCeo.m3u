@@ -50,6 +50,9 @@ http://178.217.72.72/TV3/index.m3u8
 #EXTINF:-1 tvg-chno="16" tvg-id="piatnica" tvg-name="Пятница HD" group-title="Федеральные",Пятница HD
 http://178.217.72.72/Pyatnitsa/index.m3u8
 
+#EXTINF:-1 tvg-chno="17" tvg-id="zvezda" tvg-name="Звезда HD" group-title="Федеральные",Звезда HD
+http://139.28.255.188:8080/zvezda/index.m3u8
+
 
 #EXTINF:-1,11_SeleCaoTV Фильмы
 https://live20.bozztv.com/akamaissh101/ssh101/kucunucum9ym9y/playlist.m3u8?WithCaption
@@ -84,8 +87,7 @@ http://50.7.28.226/8136/index.m3u8
 http://217.25.80.16/Domasnii/mono.m3u8
 #EXTINF:-1,Е ТВ
 http://cdn-01.bonus-tv.ru:80/gsl/tracks-v1a1/mono.m3u8
-#EXTINF:-1,ЗВЕЗДА HD
-http://139.28.255.188:8080/zvezda/index.m3u8
+
 #EXTINF:-1,Иллюзион+
 http://tv.ttk.mx:9028
 
@@ -333,6 +335,7 @@ http://95.66.188.74:80/O/mono.m3u8
 http://94.232.127.28:8080/tlc/index.m3u8
 #EXTINF:-1,Рыжий
 http://46.8.46.14/Ryzhiy/index.m3u8
+
 
 
 
