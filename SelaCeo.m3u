@@ -72,7 +72,7 @@ https://shayan.bonus-tv.ru/cdn/shayan/playlist.m3u8
 http://tele2dvrnat01-02.cdnvideo.ru/stream/TatTVR_efir_chelny/hls/1280x720@2704/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="24" tvg-id="tmtv" group-title="Федеральные",TMTV
-http://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_KZN_TMTV/variant.m3u8?version2
+http://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_KZN_TMTV/variant.m3u8
 
 #EXTINF:-1 tvg-chno="25" tvg-id="tatarstan24-chelny" group-title="Федеральные",Татарстан 24 Набережные Челны
 http://89.251.159.37:8080/hls/kunelfm2.m3u8
@@ -80,7 +80,7 @@ http://89.251.159.37:8080/hls/kunelfm2.m3u8
 #EXTINF:-1 tvg-chno="26" tvg-id="efir-kzn" group-title="Федеральные",Эфир
 https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_EFIR/variant.m3u8
 
-#EXTINF:-1 tvg-chno="27" tvg-id="pervy-hd" group-title="Федеральные",Первый канал HD
+#EXTINF:-1 tvg-chno="41" tvg-id="pervy-hd" group-title="Федеральные",Первый канал HD
 http://91.194.191.241:8081/chid164/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-chno="28" tvg-id="rossia1-hd" group-title="Федеральные",Россия 1 HD
@@ -122,7 +122,7 @@ http://178.217.72.72/Pyatnitsa/index.m3u8
 #EXTINF:-1 tvg-chno="40" tvg-id="tv3-hd" group-title="Федеральные",ТВ3 HD
 http://178.217.72.72/TV3/index.m3u8
 
-#EXTINF:-1 tvg-chno="41" tvg-id="chelny-tv" group-title="Федеральные",Челны-ТВ
+#EXTINF:-1 tvg-chno="241" tvg-id="chelny-tv" group-title="Федеральные",Челны-ТВ
 https://mhd116.iptv2022.com/p/qxOopeo72ExXPEYa746gDw,1762024273/streaming/tatar24_chelny/324/5/tracks-v1a1/mono.m3u8?WithCaption
 
 #EXTINF:-1 tvg-chno="42" tvg-id="russkiy-roman" group-title="Федеральные",Русский роман HD
@@ -652,3 +652,4 @@ http://217.25.80.16/TV1000_Action_HD/mono.m3u8
 
 #EXTINF:-1 tvg-chno="217" tvg-id="selecao-filmy" group-title="Федеральные",SeleCaoTV Фильмы
 https://live20.bozztv.com/akamaissh101/ssh101/kucunucum9ym9y/playlist.m3u8?WithCaption
+
