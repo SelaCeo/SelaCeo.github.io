@@ -63,7 +63,7 @@ http://217.25.80.16/TNT_HD/mono.m3u8
 https://streaming.televizor-24-tochka.ru/live/20.m3u8
 
 #EXTINF:-1 tvg-chno="21" tvg-id="tnv-tatarstan" group-title="Татарстан",ТНВ-Татарстан
-https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_TNVT/variant.m3u8
+https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_TNVT/variant.m3u8?version=2
 
 #EXTINF:-1 tvg-chno="22" tvg-id="shayan-tv" group-title="Татарстан",Шаян ТВ (Татарстан)
 https://shayan.bonus-tv.ru/cdn/shayan/playlist.m3u8
@@ -444,7 +444,7 @@ http://46.8.46.14/evropa/index.m3u8
 http://178.212.71.253:8000/play/110/index.m3u8
 
 #EXTINF:-1 tvg-chno="148" tvg-id="maidan-tv" group-title="Татарстан",Майдан
-http://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R05_MAIDAN/variant.m3u8
+http://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R05_MAIDAN/variant.m3u8?version=2
 
 #EXTINF:-1 tvg-chno="149" tvg-id="izvestiya" group-title="Федеральные",Известия HD
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
@@ -652,6 +652,7 @@ http://217.25.80.16/TV1000_Action_HD/mono.m3u8
 
 #EXTINF:-1 tvg-chno="217" tvg-id="selecao-filmy" group-title="Кинозалы",SeleCaoTV Фильмы
 https://live20.bozztv.com/akamaissh101/ssh101/kucunucum9ym9y/playlist.m3u8
+
 
 
 
