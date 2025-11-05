@@ -71,9 +71,8 @@ https://shayan.bonus-tv.ru/cdn/shayan/playlist.m3u8
 #EXTINF:-1 tvg-chno="23" tvg-id="efir-chelny" group-title="Федеральные",Эфир ТВ (Набережные Челны) [HD]
 http://tele2dvrnat01-02.cdnvideo.ru/stream/TatTVR_efir_chelny/hls/1280x720@2704/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="24" tvg-id="tmtv" group-title="Федеральные",TMTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_KZN_TMTV/variant.m3u8
+#EXTINF:-1 tvg-chno="24" tvg-id="tmtv" group-title="Татарстан",TMTV
+http://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_KZN_TMTV/variant.m3u8?version=2
 
 #EXTINF:-1 tvg-chno="25" tvg-id="tatarstan24-chelny" group-title="Федеральные",Татарстан 24 Набережные Челны
 http://89.251.159.37:8080/hls/kunelfm2.m3u8
@@ -653,6 +652,7 @@ http://217.25.80.16/TV1000_Action_HD/mono.m3u8
 
 #EXTINF:-1 tvg-chno="217" tvg-id="selecao-filmy" group-title="Кинозалы",SeleCaoTV Фильмы
 https://live20.bozztv.com/akamaissh101/ssh101/kucunucum9ym9y/playlist.m3u8
+
 
 
 
