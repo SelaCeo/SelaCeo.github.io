@@ -17,8 +17,9 @@ http://185.46.16.239:8000/NTV
 #EXTINF:-1 tvg-chno="5" tvg-id="5kanal-ru" group-title="Федеральные",Пятый канал
 http://193.25.8.59:8000/5
 
-#EXTINF:-1,06_Россия К FHD
+#EXTINF:-1 tvg-chno="6" tvg-id="kultura" group-title="Федеральные",Россия К
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
+
 #EXTINF:-1,11_SeleCaoTV Фильмы
 https://live20.bozztv.com/akamaissh101/ssh101/kucunucum9ym9y/playlist.m3u8?WithCaption
 #EXTINF:-1,.sci-fi
@@ -313,6 +314,7 @@ http://95.66.188.74:80/O/mono.m3u8
 http://94.232.127.28:8080/tlc/index.m3u8
 #EXTINF:-1,Рыжий
 http://46.8.46.14/Ryzhiy/index.m3u8
+
 
 
 
