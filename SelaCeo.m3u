@@ -141,10 +141,10 @@ http://91.194.191.241:8081/chid81/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-chno="46" tvg-id="kinoko" group-title="Федеральные",Кинеко
 http://178.217.72.72/kineko/index.m3u8
 
-#EXTINF:-1 tvg-chno="47" tvg-id="safir" group-title="Федеральные",Сапфир
+#EXTINF:-1 tvg-chno="47" tvg-id="sapfir" group-title="Федеральные",Сапфир
 http://217.25.80.16/Fox_Life/mono.m3u8
 
-#EXTINF:-1 tvg-chno="48" tvg-id="safir-hd" group-title="Федеральные",Сапфир HD
+#EXTINF:-1 tvg-chno="48" tvg-name "Сапфир HD "tvg-id="sapfir" group-title="Федеральные",Сапфир
 http://217.25.80.16/fox_life_hd/mono.m3u8
 
 #EXTINF:-1 tvg-chno="49" tvg-id="red" group-title="Федеральные",Red
@@ -653,6 +653,7 @@ http://217.25.80.16/TV1000_Action_HD/mono.m3u8
 
 #EXTINF:-1 tvg-chno="217" tvg-id="selecao-filmy" group-title="Кинозалы",SeleCaoTV Фильмы
 https://live20.bozztv.com/akamaissh101/ssh101/kucunucum9ym9y/playlist.m3u8
+
 
 
 
