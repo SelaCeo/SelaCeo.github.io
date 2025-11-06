@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,00_ОБНОВЛЕНИЕ: 05.11.2025г 23:44
+#EXTINF:-1,00_ОБНОВЛЕНИЕ: 06.11.2025г 19:57
 http://github.com/SelaCeo/SelaCeo.github.io/raw/09553567b1b1b70c38574b45de11db8ded59cc10/changelog.mp4
 
 #EXTINF:-1 tvg-chno="1" tvg-id="pervy-hd" group-title="Федеральные",Первый канал HD
@@ -673,6 +673,7 @@ http://95.66.188.74/Cartoon_Classics/index.m3u8
 
 #EXTINF:-1 tvg-chno="545" tvg-id="cartoon-classics" group-title="Детские",Cartoon Network
 http://46.8.46.14/Cartoon_Network/index.m3u8
+
 
 
 
