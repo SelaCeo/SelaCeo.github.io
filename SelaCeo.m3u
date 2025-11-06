@@ -646,8 +646,8 @@ http://live.15plusmg.ru/memfs/90b76c71-a86e-488a-aac4-cb66d6f88781.m3u8
 #EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="Кинозалы", Alpha Moretime
 http://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
 
-#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://img.catcast.tv/uploads/04092021/logos/40672-61329195ca44d.jpg" group-title="Кинозалы", LAV-KINO
-https://fl1004.bozztv.com/ushba32/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-chno="546" tvg-id="scripachtv" group-title="Кинозалы",SCRIPACH TV
+https://live20.bozztv.com/akamaissh101/ssh101/scripachmovie/playlist.m3u8
 
 #EXTINF:-0 tvg-id="vhs-ka" group-title="Кинозалы" tvg-logo="https://epg.iptvx.one/picons/vhs-ka.png", VHS-ка HD 
 http://95.66.188.74/VHS/index.m3u8
@@ -666,7 +666,6 @@ http://195.26.83.96:7013/play/13/index.m3u8
 http://185.46.16.239:8000/NTV
 
 #EXTINF:-1 tvg-chno="144" tvg-id="domashny" group-title="Федеральные SD",Домашний
-http://217.25.80.16/domashniy_hd/mono.m3u8
 http://185.46.16.239:8000/Domashniy
 
 #EXTINF:-1 tvg-chno="544" tvg-id="cartoon-classics" group-title="Детские",Cartoon Classics
@@ -674,6 +673,8 @@ http://95.66.188.74/Cartoon_Classics/index.m3u8
 
 #EXTINF:-1 tvg-chno="545" tvg-id="cartoon-classics" group-title="Детские",Cartoon Network
 http://46.8.46.14/Cartoon_Network/index.m3u8
+
+
 
 
 
