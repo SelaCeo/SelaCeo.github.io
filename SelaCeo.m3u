@@ -2,17 +2,17 @@
 #EXTINF:-1,00_ОБНОВЛЕНИЕ: 05.11.2025г 23:44
 http://github.com/SelaCeo/SelaCeo.github.io/raw/09553567b1b1b70c38574b45de11db8ded59cc10/changelog.mp4
 
-#EXTINF:-1 tvg-chno="1" tvg-id="pervy" group-title="Федеральные",Первый
-http://217.25.80.16/Pervii_Kanal/mono.m3u8
+#EXTINF:-1 tvg-chno="1" tvg-id="pervy-hd" group-title="Федеральные",Первый канал HD
+http://91.194.191.241:8081/chid164/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-chno="2" tvg-id="rossia1" group-title="Федеральные",Россия 1
-http://195.26.83.96:7013/play/13/index.m3u8
+#EXTINF:-1 tvg-chno="2" tvg-id="rossia1-hd" group-title="Федеральные",Россия 1 HD
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 
 #EXTINF:-1 tvg-chno="3" tvg-id="match-tv" group-title="Спортивные",Матч! ТВ
 http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-chno="4" tvg-id="ntv" group-title="Федеральные",НТВ
-http://185.46.16.239:8000/NTV
+#EXTINF:-1 tvg-chno="38" tvg-id="ntv-hd" group-title="Федеральные",НТВ HD
+http://178.217.72.72/NTV_HD/index.m3u8
 
 #EXTINF:-1 tvg-chno="5" tvg-id="5kanal-ru" group-title="Федеральные",Пятый канал
 http://193.25.8.59:8000/5
@@ -32,7 +32,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
 #EXTINF:-1 tvg-chno="10" tvg-id="tvcentr" group-title="Федеральные",ТВ Центр 
 http://46.151.151.250:9008
 
-#EXTINF:-1 tvg-chno="11" tvg-id="rentv" group-title="Федеральные",РЕН ТВ HD
+#EXTINF:-1 tvg-chno="11" tvg-id="rentv" group-title="Федеральные",РЕН ТВ
 http://95.47.156.60:8000/play/11/index.m3u8
 
 #EXTINF:-1 tvg-chno="12" tvg-id="spas" group-title="Религиозные",Спас
@@ -41,8 +41,8 @@ http://185.46.16.239:8000/Spas
 #EXTINF:-1 tvg-chno="13" tvg-id="sts" group-title="Федеральные",СТС HD
 http://188.190.222.53/CTC_HD/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-chno="14" tvg-id="domashny" group-title="Федеральные",Домашний
-http://185.46.16.239:8000/Domashniy
+#EXTINF:-1 tvg-chno="14" tvg-id="domashny" group-title="Федеральные",Домашний HD
+http://217.25.80.16/domashniy_hd/mono.m3u8
 
 #EXTINF:-1 tvg-chno="15" tvg-id="tv3-ru" group-title="Федеральные",ТВ3 HD
 http://178.217.72.72/TV3/index.m3u8
@@ -80,12 +80,6 @@ http://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_KZN_TMTV/variant.m3u8
 #EXTINF:-1 tvg-chno="26" tvg-id="tatarstan24-chelny" group-title="Татарстан",Татарстан 24 Набережные Челны
 http://89.251.159.37:8080/hls/kunelfm2.m3u8
 
-#EXTINF:-1 tvg-chno="41" tvg-id="pervy-hd" group-title="Федеральные",Первый канал HD
-http://91.194.191.241:8081/chid164/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-chno="28" tvg-id="rossia1-hd" group-title="Федеральные",Россия 1 HD
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
-
 #EXTINF:-1 tvg-chno="29" tvg-id="shopping-live" group-title="Телемагазин",Shopping Live (576p) [Not 24/7]
 http://serv30.vintera.tv:8081/shoppinglive/shoppinglive_stream/playlist.m3u8
 
@@ -112,15 +106,6 @@ http://5.8.11.96:8099/mosfilmhd/index.m3u8
 
 #EXTINF:-1 tvg-chno="37" tvg-id="nasha-novoe-kino" group-title="Кино и сериалы",Наше новое кино
 http://s3.merlive.am/nashenovoekino/index.m3u8
-
-#EXTINF:-1 tvg-chno="38" tvg-id="ntv-hd" group-title="Федеральные",НТВ HD
-http://178.217.72.72/NTV_HD/index.m3u8
-
-#EXTINF:-1 tvg-chno="39" tvg-id="pyatnitsa-hd" group-title="Федеральные",Пятница HD
-http://178.217.72.72/Pyatnitsa/index.m3u8
-
-#EXTINF:-1 tvg-chno="40" tvg-id="tv3-hd" group-title="Федеральные",ТВ3 HD
-http://178.217.72.72/TV3/index.m3u8
 
 #EXTINF:-1 tvg-chno="41" tvg-id="domashny-hd" group-title="Федеральные",Домашний
 http://217.25.80.16/Domasnii/mono.m3u8
@@ -672,6 +657,21 @@ http://95.66.188.74/VHS/index.m3u8
 
 #EXTINF:-1 tvg-id="strk" group-title="Кинозалы", СТРК HD
 http://sochinskayatrk.ru/hdtv/hls/CTPK_400/playlist.m3u8
+
+
+#EXTINF:-1 tvg-chno="1" tvg-id="pervy" group-title="Федеральные SD",Первый
+http://217.25.80.16/Pervii_Kanal/mono.m3u8
+
+#EXTINF:-1 tvg-chno="2" tvg-id="rossia1" group-title="Федеральные SD",Россия 1
+http://195.26.83.96:7013/play/13/index.m3u8
+
+#EXTINF:-1 tvg-chno="4" tvg-id="ntv" group-title="Федеральные SD",НТВ
+http://185.46.16.239:8000/NTV
+
+#EXTINF:-1 tvg-chno="14" tvg-id="domashny" group-title="Федеральные SD",Домашний
+http://217.25.80.16/domashniy_hd/mono.m3u8
+http://185.46.16.239:8000/Domashniy
+
 
 
 
