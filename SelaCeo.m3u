@@ -523,9 +523,6 @@ http://46.8.46.14/Pobeda/index.m3u8
 #EXTINF:-1 tvg-chno="179" tvg-id="pobeda-hd" group-title="Федеральные",Победа HD
 http://139.28.255.188:8080/Pobeda/index.m3u8
 
-#EXTINF:-1 tvg-chno="180" tvg-id="fan" group-title="Кино и сериалы",FAN
-http://31.148.48.15:80/Fan/index.m3u8
-
 #EXTINF:-1 tvg-chno="181" tvg-id="fan-hd" group-title="Кино и сериалы",Fan HD
 http://217.25.80.16/fan_hd/mono.m3u8
 
@@ -676,6 +673,7 @@ http://95.66.188.74/Cartoon_Classics/index.m3u8
 
 #EXTINF:-1 tvg-chno="545" tvg-id="cartoon-classics" group-title="Детские",Cartoon Network
 http://46.8.46.14/Cartoon_Network/index.m3u8
+
 
 
 
