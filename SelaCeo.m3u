@@ -20,14 +20,11 @@ http://193.25.8.59:8000/5
 #EXTINF:-1 tvg-chno="6" tvg-id="kultura" group-title="Федеральные",Россия К HD
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
 
-#EXTINF:-1 tvg-chno="6" tvg-id="kultura" group-title="Федеральные",Россия К
-http://46.151.151.250:9005
-
 #EXTINF:-1 tvg-chno="7" tvg-id="rossia-24" group-title="Новостные",Россия 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/index.m3u8
 
-#EXTINF:-1 tvg-chno="8" tvg-id="karusel" group-title="Федеральные",Карусель
-http://139.28.255.188:8080/karusel/index.m3u8
+#EXTINF:-1 tvg-chno="64" tvg-id="karusel-fhd" group-title="Детские",Карусель HD
+http://31.148.48.15/Karusel_HD/index.m3u8
 
 #EXTINF:-1 tvg-chno="9" tvg-id="otr" group-title="Федеральные",ОТР
 http://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
@@ -83,26 +80,14 @@ http://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_KZN_TMTV/variant.m3u8
 #EXTINF:-1 tvg-chno="26" tvg-id="tatarstan24-chelny" group-title="Татарстан",Татарстан 24 Набережные Челны
 http://89.251.159.37:8080/hls/kunelfm2.m3u8
 
-#EXTINF:-1 tvg-chno="29" tvg-id="shopping-live" group-title="Телемагазин",Shopping Live (576p) [Not 24/7]
-http://serv30.vintera.tv:8081/shoppinglive/shoppinglive_stream/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="30" tvg-id="moymir" group-title="Телемагазин",Мой Мир HD
-http://moymir.ru/hls/onair.m3u8
+#EXTINF:-1 tvg-chno="33" tvg-id="solntse" group-title="Детские",Солнце
+http://tv.mediacdn.ru/live/solntse/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="31" tvg-id="che" group-title="Развлекательные",Че!
 http://31.148.48.15/Che/index.m3u8
 
-#EXTINF:-1 tvg-chno="32" tvg-id="uvelirochka" group-title="Телемагазин",Ювелирочка ТВ HD
-https://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="33" tvg-id="solntse" group-title="Детские",Солнце
-http://tv.mediacdn.ru/live/solntse/playlist.m3u8
-
 #EXTINF:-1 tvg-chno="34" tvg-id="u" group-title="Развлекательные",Ю
 http://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
-
-#EXTINF:-1 tvg-chno="35" tvg-id="leomax24" group-title="Телемагазин",Leomax 24 HD
-https://tvshops.bonus-tv.ru/cdn/shop24/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="36" tvg-id="mosfilm-zoloto" group-title="Кино и сериалы",Мосфильм. Золотая коллекция
 http://5.8.11.96:8099/mosfilmhd/index.m3u8
@@ -172,11 +157,6 @@ http://tv.ttk.mx:9028
 
 #EXTINF:-1 tvg-chno="62" tvg-id="hollywood-hd" group-title="Кино и сериалы",Hollywood HD
 http://194.32.242.245/hollywoodhd/index.m3u8
-
-
-
-#EXTINF:-1 tvg-chno="64" tvg-id="karusel-fhd" group-title="Детские",Карусель FHD
-http://31.148.48.15/Karusel_HD/index.m3u8
 
 #EXTINF:-1 tvg-chno="65" tvg-id="nash-nov-kino-alt" group-title="Кино и сериалы",НАШЕ НОВОЕ КИНО
 http://146.120.14.239:3001/play/a0ih
@@ -668,11 +648,23 @@ http://185.46.16.239:8000/NTV
 #EXTINF:-1 tvg-chno="144" tvg-id="domashny" group-title="Федеральные SD",Домашний
 http://185.46.16.239:8000/Domashniy
 
-#EXTINF:-1 tvg-chno="544" tvg-id="cartoon-classics" group-title="Детские",Cartoon Classics
-http://95.66.188.74/Cartoon_Classics/index.m3u8
+#EXTINF:-1 tvg-chno="6" tvg-id="kultura" group-title="Федеральные SD",Россия К
+http://46.151.151.250:9005
 
-#EXTINF:-1 tvg-chno="545" tvg-id="cartoon-classics" group-title="Детские",Cartoon Network
-http://46.8.46.14/Cartoon_Network/index.m3u8
+#EXTINF:-1 tvg-chno="8" tvg-id="karusel" group-title="Федеральные SD",Карусель
+http://139.28.255.188:8080/karusel/index.m3u8
+
+#EXTINF:-1 tvg-chno="35" tvg-id="leomax24" group-title="Телемагазин",Leomax 24 HD
+https://tvshops.bonus-tv.ru/cdn/shop24/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="32" tvg-id="uvelirochka" group-title="Телемагазин",Ювелирочка ТВ HD
+https://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="29" tvg-id="shopping-live" group-title="Телемагазин",Shopping Live (576p) [Not 24/7]
+http://serv30.vintera.tv:8081/shoppinglive/shoppinglive_stream/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="30" tvg-id="moymir" group-title="Телемагазин",Мой Мир HD
+http://moymir.ru/hls/onair.m3u8
 
 
 
