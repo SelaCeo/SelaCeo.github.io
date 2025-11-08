@@ -17,7 +17,7 @@ http://178.217.72.72/NTV_HD/index.m3u8
 #EXTINF:-1 tvg-chno="5" tvg-id="5kanal-ru" group-title="Федеральные",Пятый канал
 http://193.25.8.59:8000/5
 
-#EXTINF:-1 tvg-chno="6" tvg-id="kultura" group-title="Федеральные",Россия К HD
+#EXTINF:-1 tvg-chno="6" tvg-id="kultura" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_kultura.png" group-title="Федеральные",Россия К HD
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
 
 #EXTINF:-1 tvg-chno="7" tvg-id="rossia-24" group-title="Новостные",Россия 24
@@ -29,11 +29,11 @@ http://31.148.48.15/Karusel_HD/index.m3u8
 #EXTINF:-1 tvg-chno="9" tvg-id="otr" group-title="Федеральные",ОТР
 http://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
 
-#EXTINF:-1 tvg-chno="10" tvg-id="tvcentr" group-title="Федеральные",ТВ Центр 
+#EXTINF:-1 tvg-chno="10" tvg-id="tvcentr" group-title="Федеральные",ТВ Центр HD
 http://87.76.32.36:8001/tvc
 
-#EXTINF:-1 tvg-chno="11" tvg-id="rentv" group-title="Федеральные",РЕН ТВ
-http://95.47.156.60:8000/play/11/index.m3u8
+#EXTINF:-1 tvg-chno="11" tvg-id="rentv" group-title="Федеральные",РЕН ТВ HD
+http://139.28.255.188:8080/rentv/index.m3u8
 
 #EXTINF:-1 tvg-chno="12" tvg-id="spas" group-title="Религиозные",Спас
 http://185.46.16.239:8000/Spas
@@ -59,8 +59,8 @@ http://tv.ttk.mx:9140
 #EXTINF:-1 tvg-chno="19" tvg-id="tnt" group-title="Федеральные",ТНТ HD
 http://217.25.80.16/TNT_HD/mono.m3u8
 
-#EXTINF:-1 tvg-chno="20" tvg-id="muztv" group-title="Музыкальные",МузТВ
-https://streaming.televizor-24-tochka.ru/live/20.m3u8
+#EXTINF:-1 tvg-chno="20" tvg-id="muztv" tvg-logo="http://only4.tv/ch/1313.png" group-title="Музыкальные",МузТВ HD
+https://livetv.mylifeisgood.net.ru/channels/muztvhd.m3u8
 
 #EXTINF:-1 tvg-chno="21" tvg-id="tnv-tatarstan" group-title="Татарстан",ТНВ-Татарстан
 https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_TNVT/variant.m3u8?version=2
@@ -654,6 +654,9 @@ http://46.151.151.250:9005
 #EXTINF:-1 tvg-chno="8" tvg-id="karusel" group-title="Федеральные SD",Карусель
 http://139.28.255.188:8080/karusel/index.m3u8
 
+#EXTINF:-1 tvg-chno="11" tvg-id="rentv" group-title="Федеральные SD",РЕН ТВ
+http://95.47.156.60:8000/play/11/index.m3u8
+
 #EXTINF:-1 tvg-chno="35" tvg-id="leomax24" group-title="Телемагазин",Leomax 24 HD
 https://tvshops.bonus-tv.ru/cdn/shop24/playlist.m3u8
 
@@ -665,6 +668,7 @@ http://serv30.vintera.tv:8081/shoppinglive/shoppinglive_stream/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="30" tvg-id="moymir" group-title="Телемагазин",Мой Мир HD
 http://moymir.ru/hls/onair.m3u8
+
 
 
 
