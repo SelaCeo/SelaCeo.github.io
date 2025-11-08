@@ -30,7 +30,7 @@ http://31.148.48.15/Karusel_HD/index.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
 
 #EXTINF:-1 tvg-chno="10" tvg-id="tvcentr" group-title="Федеральные",ТВ Центр 
-http://46.151.151.250:9008
+http://87.76.32.36:8001/tvc
 
 #EXTINF:-1 tvg-chno="11" tvg-id="rentv" group-title="Федеральные",РЕН ТВ
 http://95.47.156.60:8000/play/11/index.m3u8
@@ -665,6 +665,7 @@ http://serv30.vintera.tv:8081/shoppinglive/shoppinglive_stream/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="30" tvg-id="moymir" group-title="Телемагазин",Мой Мир HD
 http://moymir.ru/hls/onair.m3u8
+
 
 
 
