@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-chno="00" group-title="ИНФО",ОБНОВЛЕНИЕ: 07.11.2025г 13:46 
-http://github.com/SelaCeo/SelaCeo.github.io/raw/09553567b1b1b70c38574b45de11db8ded59cc10/changelog.mp4
+https://github.com/iptvrus/z/blob/d12826bba04e1d363e38f1af31a7f695959197d7/changelog.mp4
 
 #EXTINF:-1 tvg-chno="1" tvg-id="pervy-hd" group-title="Федеральные",Первый канал HD
 http://91.194.191.241:8081/chid164/tracks-v1a1/mono.m3u8
@@ -671,6 +671,7 @@ http://serv30.vintera.tv:8081/shoppinglive/shoppinglive_stream/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="30" tvg-id="moymir" group-title="Телемагазин",Мой Мир HD
 http://moymir.ru/hls/onair.m3u8
+
 
 
 
