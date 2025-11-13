@@ -639,10 +639,10 @@ http://217.25.80.16/TV1000_HD/mono.m3u8
 http://217.25.80.16/TV1000_Action_HD/mono.m3u8
 
 #EXTINF:-1 tvg-chno="217" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="selecao-filmy" group-title="Кинозалы",SeleCaoTV Фильмы
-https://live20.bozztv.com/akamaissh101/ssh101/kucunucum9ym9y/playlist.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/kucunucum9ym9y/chunks.m3u8
 
 #EXTINF:-1 tvg-chno="218" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="Кинозалы", SeleCaoTV 2 Сериалы
-https://live20.bozztv.com/akamaissh101/ssh101/esperanza/playlist.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/esperanza/chunks.m3u8
 
 #EXTINF:-1 tvg-chno="219" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="Кинозалы", Aниме TB
 https://live20.bozztv.com/akamaissh101/ssh101/kucunucum9ym9yy/chunks.m3u8
@@ -676,6 +676,7 @@ http://serv30.vintera.tv:8081/shoppinglive/shoppinglive_stream/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="30" tvg-id="moymir" group-title="Телемагазин",Мой Мир HD
 http://moymir.ru/hls/onair.m3u8
+
 
 
 
