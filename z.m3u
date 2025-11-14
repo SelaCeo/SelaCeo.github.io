@@ -37,8 +37,8 @@ http://185.46.16.239:8000/Spas
 #EXTINF:-1 tvg-chno="13" tvg-id="sts" group-title="Федеральные",СТС HD
 http://188.190.222.53/CTC_HD/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-chno="14" tvg-id="domashny" group-title="Федеральные",Домашний HD
-http://217.25.80.16/domashniy_hd/mono.m3u8
+#EXTINF:-1 tvg-chno="14" tvg-id="domashny" group-title="Федеральные",Домашний 
+http://95.47.156.60:8000/play/14/index.m3u8
 
 #EXTINF:-1 tvg-chno="15" tvg-id="tv3-ru" group-title="Федеральные",ТВ3 HD
 http://178.217.72.72/TV3/index.m3u8
@@ -53,7 +53,7 @@ http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 http://46.151.151.250:9140
 
 #EXTINF:-1 tvg-chno="19" tvg-id="tnt" group-title="Федеральные",ТНТ HD
-http://217.25.80.16/TNT_HD/mono.m3u8
+http://91.207.115.228:5000/c157
 
 #EXTINF:-1 tvg-chno="20" tvg-id="muztv" tvg-logo="http://only4.tv/ch/1313.png" group-title="Музыкальные",МузТВ HD
 https://livetv.mylifeisgood.net.ru/channels/muztvhd.m3u8
@@ -174,7 +174,7 @@ http://178.217.72.72/kineko/index.m3u8
 http://91.207.115.228:5000/c90
 
 #EXTINF:-1 tvg-chno="48" tvg-id="sapfir" tvg-name="Сапфир HD" group-title="Кино и сериалы",Сапфир
-http://217.25.80.16/fox_life_hd/mono.m3u8
+http://31.148.48.15/Sapfir_HD/index.m3u8
 
 #EXTINF:-1 tvg-chno="49" tvg-id="red" group-title="Кино и сериалы",Red
 http://91.194.191.241:8081/chid85/tracks-v1a1/mono.m3u8
@@ -231,6 +231,9 @@ http://46.151.151.250:9165
 #EXTINF:-1 tvg-chno="69" tvg-id="dom-kino-premium" group-title="Кино и сериалы",Дом Кино Премиум HD
 http://95.66.188.74/DomKinoPremiumHD/index.m3u8
 
+#EXTINF:-1 tvg-chno="70" tvg-id="cinema-hd" group-title="Кино и сериалы",Cinema 
+http://catchup.videoline.ru/cinema/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-chno="70" tvg-id="cinema-hd" group-title="Кино и сериалы",Cinema HD
 http://217.25.80.16/Cinema_HD/mono.m3u8
 
@@ -256,10 +259,10 @@ http://cdn2.ntv.ru/th_hit/tracks-v1a1/mono.m3u8
 http://91.194.191.241:8081/chid70/mono.m3u8
 
 #EXTINF:-1 tvg-chno="78" tvg-id="vremya" group-title="Кино и сериалы",Время
-http://217.25.80.16/VREMA/mono.m3u8
+http://91.207.115.228:5000/c53
 
-#EXTINF:-1 tvg-chno="79" tvg-id="ntv-serial" group-title="Кино и сериалы",НТВ Сериал HD
-http://iptv46.mcx-ix.ru:8077/ntv_serial/index.m3u8
+#EXTINF:-1 tvg-chno="79" tvg-id="ntv-serial" group-title="Кино и сериалы",НТВ Сериал
+http://146.120.14.239:3001/play/a0bx
 
 #EXTINF:-1 tvg-chno="80" tvg-id="romantichnoe" group-title="Кино и сериалы",Романтичное HD
 http://46.8.46.14/Romantichnoe_HD/index.m3u8
@@ -278,7 +281,7 @@ https://fl1001.bozztv.com/ushba44/index.m3u8
 http://cdn-01.bonus-tv.ru:80/gsl/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-chno="96" tvg-id="terra" group-title="Познавательные",Terra
-http://iptv46.mcx-ix.ru:8077/natgeo_hd/index.m3u8
+http://178.217.72.72/TERRA_HD/index.m3u8
 
 #EXTINF:-1 tvg-chno="97" tvg-id="v-mire-zhivotnyh" group-title="Познавательные",В Мире Животных HD
 http://91.194.191.241:8081/chid209/tracks-v1a1/mono.m3u8
@@ -290,7 +293,7 @@ http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v1a1/mono.ts.m3u8
 http://95.66.188.74/Arsenal_HD/index.m3u8
 
 #EXTINF:-1 tvg-chno="100" tvg-id="big-planet" group-title="Познавательные",Big Planet
-http://217.25.80.16/Nat_Geo_Wild/mono.m3u8
+http://91.207.115.228:5000/c94
 
 #EXTINF:-1 tvg-chno="101" tvg-id="moya-planeta" group-title="Познавательные",Моя Планета HD
 http://46.151.151.250:9087
@@ -420,7 +423,7 @@ http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
 http://91.194.191.241:8081/chid468/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-chno="144" tvg-id="muzyka-pervogo" group-title="Музыкальные",Музыка Первого
-http://217.25.80.16/Muzika_Pervogo/mono.m3u8
+http://91.207.115.228:5000/c123
 
 #EXTINF:-1 tvg-chno="145" tvg-id="bridge-classic" group-title="Музыкальные",Bridge TV Classic
 http://178.212.71.253:8000/play/135/index.m3u8
@@ -726,6 +729,7 @@ http://moymir.ru/hls/onair.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-chno="00" group-title="ИНФО",ОБНОВЛЕНИЕ: 14.11.2025г 19:39 
 https://iptvrus.github.io/z/info.mp4
+
 
 
 
