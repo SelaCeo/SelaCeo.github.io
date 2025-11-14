@@ -656,22 +656,13 @@ http://195.9.195.3:8080/manifest/157269_master.m3u8
 #EXTINF:-1 tvg-chno="219" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="Кинозалы",Aниме TB
 http://195.9.195.3:8080/hls/171547.m3u8
 
-#EXTINF:-1 tvg-chno="217" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="selecao-filmy" group-title="Кинозалы",SeleCaoTV Фильмы (зеркало)
-https://live20.bozztv.com/akamaissh101/ssh101/kucunucum9ym9y/chunks.m3u8
-
-#EXTINF:-1 tvg-chno="218" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="Кинозалы",SeleCaoTV Сериалы (зеркало)
-https://live20.bozztv.com/akamaissh101/ssh101/esperanza/chunks.m3u8
-
-#EXTINF:-1 tvg-chno="219" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="Кинозалы",Aниме TB (зеркало)
-https://live20.bozztv.com/akamaissh101/ssh101/kucunucum9ym9yy/chunks.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="Кинозалы",Alpha Cinema
 http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="Кинозалы",Alpha Funny
 http://live.15plusmg.ru/memfs/90b76c71-a86e-488a-aac4-cb66d6f88781.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="Кинозалы", Alpha Moretime
+#EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="Кинозалы",Alpha Moretime
 http://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
 
 #EXTINF:-1 tvg-chno="546" tvg-id="scripachtv" group-title="Кинозалы",SCRIPACH TV
@@ -680,8 +671,51 @@ https://live20.bozztv.com/akamaissh101/ssh101/scripachmovie/playlist.m3u8
 #EXTINF:-0 tvg-id="vhs-ka" group-title="Кинозалы" tvg-logo="https://epg.iptvx.one/picons/vhs-ka.png",VHS-ка HD 
 http://95.66.188.74/VHS/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.goodgame.ru/files/avatars/av_1643167_Q5gP.jpg" group-title="Кинозалы",VHS кино
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/218531.m3u8
+
 #EXTINF:-1 tvg-id="strk" group-title="Кинозалы",СТРК HD
 http://sochinskayatrk.ru/hdtv/hls/CTPK_400/playlist.m3u8
+
+#EXTINF:-1 group-title="Good Game Not 24/7" tvg-logo="https://static.goodgame.ru/files/avatars/av_1676704_9wc1.jpg" ,Moviee Toper
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/214749.m3u8
+#EXTINF:-1 group-title="Good Game Not 24/7" tvg-logo="https://static.goodgame.ru/files/avatars/av_1651532_atYl.jpg" ,Kino Jam
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/210182.m3u8
+#EXTINF:-1 group-title="Good Game Not 24/7" tvg-logo="https://static.goodgame.ru/files/avatars/av_avatar_hum.png" ,КиноФраншизы 24/7
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/218193.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.goodgame.ru/files/avatars/av_avatar_elf.png" group-title="Кинозалы",Фильмы 24/7
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/218251.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/04102024/logos/9620-66ffb65641f1e.png" group-title="Кинозалы",Малдер Всё тв
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/153640.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv2free.ru/sites/default/files/styles/medium/public/tv-logo/tv-1filmax.jpg" group-title="Кинозалы",1FILMAX
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/204708.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv2free.ru/sites/default/files/styles/medium/public/tv-logo/tv-2filmax_0.jpg" group-title="Кинозалы",2FILMAX
+http://195.9.195.3:8080/hls/204717.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/688SVFy/image-38.png" group-title="Кинозалы",Фантом
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/204722.m3u8
+
+#EXTINF:-1 group-title="Кинозалы",Millenniym UHD
+#EXTVLCOPT:http-user-agent=SmartTV
+
+#EXTINF:-1 tvg-chno="217" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="selecao-filmy" group-title="Кинозалы",SeleCaoTV Фильмы (зеркало)
+https://live20.bozztv.com/akamaissh101/ssh101/kucunucum9ym9y/chunks.m3u8
+#EXTINF:-1 tvg-chno="218" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="Кинозалы",SeleCaoTV Сериалы (зеркало)
+https://live20.bozztv.com/akamaissh101/ssh101/esperanza/chunks.m3u8
+#EXTINF:-1 tvg-chno="219" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="Кинозалы",Aниме TB (зеркало)
+https://live20.bozztv.com/akamaissh101/ssh101/kucunucum9ym9yy/chunks.m3u8
 
 #EXTINF:-1 tvg-chno="35" tvg-id="leomax24" group-title="Телемагазин",Leomax 24 HD
 https://tvshops.bonus-tv.ru/cdn/shop24/playlist.m3u8
@@ -696,8 +730,9 @@ http://serv30.vintera.tv:8081/shoppinglive/shoppinglive_stream/playlist.m3u8
 http://moymir.ru/hls/onair.m3u8
 
 #EXTM3U
-#EXTINF:-1 tvg-chno="00" group-title="ИНФО",ОБНОВЛЕНИЕ: 14.11.2025г 13:59 
+#EXTINF:-1 tvg-chno="00" group-title="ИНФО",ОБНОВЛЕНИЕ: 14.11.2025г 19:39 
 https://iptvrus.github.io/z/info.mp4
+
 
 
 
