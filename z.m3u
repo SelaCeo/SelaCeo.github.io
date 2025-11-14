@@ -608,6 +608,9 @@ http://tv.streams.baikal-telecom.net:8080/KHL_HD/mpegts
 #EXTINF:-1 tvg-chno="206" tvg-id="futbol" group-title="Спортивные",Футбол
 http://188.190.222.53/Football/tracks-v1a1/mono.ts.m3u8
 
+#EXTINF:-1 tvg-chno="207" tvg-id="disney" group-title="Детские", Дисней
+https://s.catcast.tv/content/48693/index.m3u8?token=d7f142cca200533ec3a0eea6c06994a5
+
 #EXTINF:-1 tvg-chno="207" tvg-id="cartoon-classics" group-title="Детские",Cartoon Classics
 http://95.66.188.74/Cartoon_Classics/index.m3u8
 
@@ -676,6 +679,7 @@ http://serv30.vintera.tv:8081/shoppinglive/shoppinglive_stream/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="30" tvg-id="moymir" group-title="Телемагазин",Мой Мир HD
 http://moymir.ru/hls/onair.m3u8
+
 
 
 
