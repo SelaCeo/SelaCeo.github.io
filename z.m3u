@@ -650,8 +650,14 @@ https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/tracks-
 #EXTINF:-1 tvg-chno="217" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="selecao-filmy" group-title="Кинозалы",SeleCaoTV Фильмы
 https://live20.bozztv.com/akamaissh101/ssh101/kucunucum9ym9y/chunks.m3u8
 
-#EXTINF:-1 tvg-chno="218" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="Кинозалы",SeleCaoTV 2 Сериалы
+#EXTINF:-1 tvg-chno="217" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="selecao-filmy" group-title="Кинозалы",SeleCaoTV Фильмы
+http://195.9.195.3:8080/hls/163253.m3u8
+
+#EXTINF:-1 tvg-chno="218" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="Кинозалы",SeleCaoTV Сериалы
 https://live20.bozztv.com/akamaissh101/ssh101/esperanza/chunks.m3u8
+
+#EXTINF:-1 tvg-chno="218" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="Кинозалы",SeleCaoTV Сериалы
+http://195.9.195.3:8080/manifest/157269_master.m3u8
 
 #EXTINF:-1 tvg-chno="219" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="Кинозалы",Aниме TB
 https://live20.bozztv.com/akamaissh101/ssh101/kucunucum9ym9yy/chunks.m3u8
@@ -689,6 +695,7 @@ http://moymir.ru/hls/onair.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-chno="00" group-title="ИНФО",ОБНОВЛЕНИЕ: 14.11.2025г 13:59 
 https://iptvrus.github.io/z/info.mp4
+
 
 
 
