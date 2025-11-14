@@ -31,9 +31,6 @@ http://87.76.32.36:8001/tvc
 #EXTINF:-1 tvg-chno="11" tvg-id="rentv" group-title="Федеральные",РЕН ТВ HD
 http://178.217.72.72/REN_TV/index.m3u8
 
-#EXTINF:-1 tvg-chno="11" tvg-id="rentv" group-title="Федеральные",РЕН ТВ HD
-http://139.28.255.188:8080/rentv/index.m3u8
-
 #EXTINF:-1 tvg-chno="12" tvg-id="spas" group-title="Религиозные",Спас
 http://185.46.16.239:8000/Spas
 
@@ -51,9 +48,6 @@ http://178.217.72.72/Pyatnitsa/index.m3u8
 
 #EXTINF:-1 tvg-chno="17" tvg-id="zvezda" tvg-logo="http://kusa.k-itv.ru/wp-content/uploads/2016/08/zvezda_telekanal2.jpeg" group-title="Федеральные",Звезда HD
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
-
-#EXTINF:-1 tvg-chno="17" tvg-id="zvezda" tvg-logo="http://kusa.k-itv.ru/wp-content/uploads/2016/08/zvezda_telekanal2.jpeg" group-title="Федеральные",Звезда HD
-http://139.28.255.188:8080/zvezda/index.m3u8
 
 #EXTINF:-1 tvg-chno="18" tvg-id="mir" group-title="Федеральные",Мир HD
 http://46.151.151.250:9140
@@ -732,6 +726,7 @@ http://moymir.ru/hls/onair.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-chno="00" group-title="ИНФО",ОБНОВЛЕНИЕ: 14.11.2025г 19:39 
 https://iptvrus.github.io/z/info.mp4
+
 
 
 
