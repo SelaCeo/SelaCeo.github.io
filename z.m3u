@@ -8,7 +8,7 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-chno="4" tvg-id="ntv-hd" group-title="Федеральные",НТВ HD
-http://178.217.72.72/NTV_HD/index.m3u8
+http://cdn2.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-chno="5" tvg-id="5kanal-ru" group-title="Федеральные",Пятый канал
 http://193.25.8.59:8000/5
@@ -29,7 +29,7 @@ http://46.151.151.250:9008
 http://87.76.32.36:8001/tvc
 
 #EXTINF:-1 tvg-chno="11" tvg-id="rentv" group-title="Федеральные",РЕН ТВ HD
-http://178.217.72.72/REN_TV/index.m3u8
+http://lb.wisp.cat/lb0/rentvhd/mpegts?token=nPfO4rRaax
 
 #EXTINF:-1 tvg-chno="12" tvg-id="spas" group-title="Религиозные",Спас
 http://185.46.16.239:8000/Spas
@@ -729,6 +729,7 @@ http://moymir.ru/hls/onair.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-chno="00" group-title="ИНФО",ОБНОВЛЕНИЕ: 14.11.2025г 19:39 
 https://iptvrus.github.io/z/info.mp4
+
 
 
 
