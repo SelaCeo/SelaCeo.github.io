@@ -148,7 +148,7 @@ http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/track
 http://50.7.28.226/8551/index.m3u8
 
 #EXTINF:-1 tvg-chno="31" tvg-id="che" group-title="Развлекательные",СТС
-http://188.190.222.53/CTC/index.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
 
 #EXTINF:-1 tvg-chno="144" tvg-id="domashny" group-title="Развлекательные",Домашний
 http://185.46.16.239:8000/Domashniy
@@ -750,6 +750,7 @@ http://moymir.ru/hls/onair.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-chno="00" group-title="ИНФО",ОБНОВЛЕНИЕ: 19.11.2025г 19:39 
 https://iptvrus.github.io/z/info.mp4
+
 
 
 
