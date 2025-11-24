@@ -659,7 +659,7 @@ http://46.151.151.250:9183
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=hZWnyL3PjfiNzIPx31b0Nw&e=1763954365&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 
 #EXTINF:-1 tvg-chno="216" tvg-id="tv1000-action" group-title="Кино и сериалы",Viju TV1000 Action
-https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_Action_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=ScX16w4SdARDkCF0ymhgfA&e=1763954385&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+http://46.8.46.14/actiontv/index.m3u8
 
 #EXTINF:-1 tvg-chno="216" tvg-id="tv1000-romantica" group-title="Кино и сериалы",Viju TV1000 Romantica
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=ppPZwasa5HGUlyAsyHZV3Q&e=1763954420&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
@@ -750,6 +750,7 @@ http://moymir.ru/hls/onair.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-chno="00" group-title="ИНФО",ОБНОВЛЕНИЕ: 19.11.2025г 19:39 
 https://iptvrus.github.io/z/info.mp4
+
 
 
 
