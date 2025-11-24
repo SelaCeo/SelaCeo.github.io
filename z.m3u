@@ -25,8 +25,8 @@ http://31.148.48.15/Karusel_HD/index.m3u8
 #EXTINF:-1 tvg-chno="9" tvg-id="otr" group-title="Федеральные",ОТР
 http://46.151.151.250:9008
 
-#EXTINF:-1 tvg-chno="10" tvg-id="tvcentr" tvg-logo="https://iptvx.one/picons/tvcentr.png" group-title="Федеральные",ТВ Центр HD
-http://87.76.32.36:8001/tvc
+#EXTINF:-1 tvg-chno="10" tvg-id="tvcentr" tvg-logo="https://iptvx.one/picons/tvcentr.png" group-title="Федеральные",ТВ Центр
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
 
 #EXTINF:-1 tvg-chno="11" tvg-id="rentv" group-title="Федеральные",РЕН ТВ HD
 http://api.peers.tv/timeshift/ren_tv_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjM1ODIyMTcsImlhdCI6MTc2MzQ5NTgxNywiY2lkIjo2LCJ1aWQiOjk2NjAwMTc2NiwicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTI2MzYsImFkdWx0IjpmYWxzZX0.1Qbf0_Ra3crFR86r6n2F1AwQbSNhbqYfltafcLfAR7k&offset=10
@@ -34,17 +34,17 @@ http://api.peers.tv/timeshift/ren_tv_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1N
 #EXTINF:-1 tvg-chno="12" tvg-id="spas" group-title="Религиозные",Спас
 http://185.46.16.239:8000/Spas
 
-#EXTINF:-1 tvg-chno="13" tvg-id="sts" group-title="Федеральные",СТС HD
-http://188.190.222.53/CTC_HD/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-chno="13" tvg-id="sts" group-title="Федеральные",СТС
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
 
 #EXTINF:-1 tvg-chno="14" tvg-id="domashny" group-title="Федеральные",Домашний 
 http://93.113.203.165/iptv/F5BM9GXMAPYBDK/15116/index.m3u8
 
-#EXTINF:-1 tvg-chno="15" tvg-id="tv3-ru" group-title="Федеральные",ТВ3 HD 
-https://bl.rutube.ru/livestream/7bf12d9c050f9a7ef3728db5730432ae/index.m3u8?s=qdqiUgfZYkij4SpTtmofOQ&e=1763582232&scheme=https
+#EXTINF:-1 tvg-chno="15" tvg-id="tv3-ru" group-title="Федеральные",ТВ3
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
 
-#EXTINF:-1 tvg-chno="16" tvg-id="piatnica" group-title="Федеральные",Пятница HD
-https://bl.rutube.ru/livestream/9f87a9a0cecbe773be6fddcbd93585ac/index.m3u8?s=oUDORXN8lhBDk1ebnXzgDQ&e=1763582231&scheme=https
+#EXTINF:-1 tvg-chno="16" tvg-id="piatnica" group-title="Федеральные",Пятница 
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
 
 #EXTINF:-1 tvg-chno="17" tvg-id="zvezda" tvg-logo="http://kusa.k-itv.ru/wp-content/uploads/2016/08/zvezda_telekanal2.jpeg" group-title="Федеральные",Звезда HD
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
@@ -750,6 +750,7 @@ http://moymir.ru/hls/onair.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-chno="00" group-title="ИНФО",ОБНОВЛЕНИЕ: 19.11.2025г 19:39 
 https://iptvrus.github.io/z/info.mp4
+
 
 
 
