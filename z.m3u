@@ -250,7 +250,7 @@ http://46.151.151.250:9155
 http://46.151.151.250:9028
 
 #EXTINF:-1 tvg-chno="62" tvg-id="hollywood-hd" group-title="Кино и сериалы",Hollywood HD
-http://194.32.242.245/hollywoodhd/index.m3u8
+http://195.191.208.11:8087/udp/238.9.64.176:1234
 
 
 #EXTINF:-1 tvg-chno="68" tvg-id="muzhskoe-kino" group-title="Кино и сериалы",Мужское Кино HD
@@ -327,7 +327,7 @@ http://91.194.191.241:8081/chid426/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-chno="105" tvg-id="viju-history" group-title="Познавательные",Viju History
-http://91.194.191.241:8081/chid105/tracks-v1a1/mono.m3u8
+http://91.207.115.228:5000/c96
 
 #EXTINF:-1 tvg-chno="106" tvg-id="ohota-rybalka" group-title="Познавательные",Охотник и Рыболов HD
 http://46.8.46.14/ohota/index.m3u8
@@ -444,7 +444,7 @@ http://31.148.48.15:80/La-Minor_TV/index.m3u8
 http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
 
 #EXTINF:-1 tvg-chno="143" tvg-id="bridge-russkiy-hit" group-title="Музыкальные",Bridge TV Русский Хит
-http://91.194.191.241:8081/chid468/tracks-v1a1/mono.m3u8
+http://195.191.208.11:8087/udp/238.9.64.158:1234
 
 #EXTINF:-1 tvg-chno="144" tvg-id="muzyka-pervogo" group-title="Музыкальные",Музыка Первого
 http://91.207.115.228:5000/c123
@@ -638,10 +638,10 @@ http://95.66.188.74/Cartoon_Classics/index.m3u8
 http://stv.mediacdn.ru/live/cdn/ani/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="209" tvg-id="multilandia" group-title="Детские",Мультиландия
-http://91.194.191.241:8081/chid62/tracks-v1a1/mono.m3u8
+http://195.191.208.11:8087/udp/238.9.64.116:1234
 
 #EXTINF:-1 tvg-chno="210" tvg-id="kapitan-fantastika" group-title="Детские",Капитан Фантастика
-http://91.194.191.241:8081/chid292/tracks-v1a1/mono.m3u8
+http://195.191.208.11:8087/udp/238.2.49.128:1234
 
 #EXTINF:-1 tvg-chno="211" tvg-id="sts-kids" group-title="Детские",СТС Kids HD
 http://31.148.48.15/STS_Kids_HD/index.m3u8
@@ -750,6 +750,7 @@ http://moymir.ru/hls/onair.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-chno="00" group-title="ИНФО",ОБНОВЛЕНИЕ: 19.11.2025г 19:39 
 https://iptvrus.github.io/z/info.mp4
+
 
 
 
