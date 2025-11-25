@@ -390,7 +390,7 @@ https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a
 http://91.194.191.241:8081/chid53/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-chno="126" tvg-id="match-strana" group-title="Спортивные",Матч Страна
-http://91.194.191.241:8081/chid56/tracks-v1a1/mono.m3u8
+http://91.207.115.228:5000/c106
 
 #EXTINF:-1 tvg-chno="127" tvg-id="hd-rex" group-title="Федеральные",HD REX
 http://46.151.151.250:9095
@@ -750,3 +750,4 @@ http://moymir.ru/hls/onair.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-chno="00" group-title="ИНФО",ОБНОВЛЕНИЕ: 19.11.2025г 19:39 
 https://iptvrus.github.io/z/info.mp4
+
