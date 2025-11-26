@@ -28,8 +28,8 @@ http://46.151.151.250:9008
 #EXTINF:-1 tvg-chno="10" tvg-id="tvcentr" tvg-logo="https://iptvx.one/picons/tvcentr.png" group-title="Федеральные",ТВ Центр
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
 
-#EXTINF:-1 tvg-chno="11" tvg-id="rentv" group-title="Федеральные",РЕН ТВ HD
-http://api.peers.tv/timeshift/ren_tv_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjM1ODIyMTcsImlhdCI6MTc2MzQ5NTgxNywiY2lkIjo2LCJ1aWQiOjk2NjAwMTc2NiwicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTI2MzYsImFkdWx0IjpmYWxzZX0.1Qbf0_Ra3crFR86r6n2F1AwQbSNhbqYfltafcLfAR7k&offset=10
+#EXTINF:-1 tvg-chno="11" tvg-id="rentv" group-title="Федеральные",РЕН ТВ
+http://185.46.16.239:8000/REN_TV
 
 #EXTINF:-1 tvg-chno="12" tvg-id="spas" group-title="Религиозные",Спас
 http://185.46.16.239:8000/Spas
@@ -653,8 +653,8 @@ https://russian-liveali.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFX
 #EXTINF:-1 tvg-chno="214" tvg-id="tv1000-russkoe" group-title="Кино и сериалы",Viju TV1000 Русское HD
 http://46.151.151.250:9183
 
-#EXTINF:-1 tvg-chno="215" tvg-id="tv1000" group-title="Кино и сериалы",Viju TV1000 HD
-https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=hZWnyL3PjfiNzIPx31b0Nw&e=1763954365&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+#EXTINF:-1 tvg-chno="215" tvg-id="tv1000" group-title="Кино и сериалы",Viju TV1000
+http://46.8.46.14/tv1000/index.m3u8
 
 #EXTINF:-1 tvg-chno="216" tvg-id="tv1000-action" group-title="Кино и сериалы",Viju TV1000 Action
 http://46.8.46.14/actiontv/index.m3u8
@@ -745,6 +745,7 @@ http://moymir.ru/hls/onair.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-chno="00" group-title="ИНФО",ОБНОВЛЕНИЕ: 19.11.2025г 19:39 
 https://iptvrus.github.io/z/info.mp4
+
 
 
 
