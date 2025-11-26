@@ -200,7 +200,7 @@ http://158.101.222.193:88/georgia_play.php?id=kinoujas
 http://46.8.46.14/kinosvid/index.m3u8
 
 #EXTINF:-1 tvg-chno="51" tvg-id="kinokomediya" group-title="Кино и сериалы",Кинокомедия
-http://91.194.191.241:8081/chid406/tracks-v1a1/mono.m3u8
+http://178.212.71.253:8000/play/85/index.m3u8
 
 #EXTINF:-1 tvg-chno="72" tvg-id="kinoseriya" group-title="Кино и сериалы",Киносерия
 http://94.232.127.28:8080/kinoserija/index.m3u8
@@ -745,6 +745,7 @@ http://moymir.ru/hls/onair.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-chno="00" group-title="ИНФО",ОБНОВЛЕНИЕ: 19.11.2025г 19:39 
 https://iptvrus.github.io/z/info.mp4
+
 
 
 
