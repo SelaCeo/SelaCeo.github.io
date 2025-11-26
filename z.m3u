@@ -38,7 +38,7 @@ http://185.46.16.239:8000/Spas
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
 
 #EXTINF:-1 tvg-chno="14" tvg-id="domashny" group-title="Федеральные",Домашний 
-http://93.113.203.165/iptv/F5BM9GXMAPYBDK/15116/index.m3u8
+http://146.120.14.239:3001/play/a06n
 
 #EXTINF:-1 tvg-chno="15" tvg-id="tv3-ru" group-title="Федеральные",ТВ3
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
@@ -745,6 +745,7 @@ http://moymir.ru/hls/onair.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-chno="00" group-title="ИНФО",ОБНОВЛЕНИЕ: 19.11.2025г 19:39 
 https://iptvrus.github.io/z/info.mp4
+
 
 
 
