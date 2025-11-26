@@ -645,7 +645,7 @@ http://195.191.208.11:8087/udp/238.2.49.128:1234
 http://31.148.48.15/STS_Kids_HD/index.m3u8
 
 #EXTINF:-1 tvg-chno="212" tvg-id="v-gostyakh-u-skazki" group-title="Детские",В Гостях у Сказки
-http://91.194.191.241:8081/chid61/tracks-v1a1/mono.m3u8
+http://146.120.14.239:3001/play/a078
 
 #EXTINF:-1 tvg-chno="213" tvg-id="cgtn" group-title="Новостные",CGTN Русский
 https://russian-liveali.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
@@ -745,6 +745,7 @@ http://moymir.ru/hls/onair.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-chno="00" group-title="ИНФО",ОБНОВЛЕНИЕ: 19.11.2025г 19:39 
 https://iptvrus.github.io/z/info.mp4
+
 
 
 
