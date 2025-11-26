@@ -624,7 +624,7 @@ http://188.190.222.53/Football/tracks-v1a1/mono.ts.m3u8
 http://vod.splay.uz/live_splay/original/Eurosport/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-chno="207" tvg-id="eurosport" group-title="Спортивные",Eurosport 2 HD
-http://5.188.159.128:8070/eurosport2/index.m3u8
+http://91.207.115.228:5000/c154
 
 #EXTINF:-1 tvg-chno="207" tvg-id="disney" group-title="Детские",Дисней
 https://s.catcast.tv/content/48693/index.m3u8?token=d7f142cca200533ec3a0eea6c06994a5
@@ -745,6 +745,7 @@ http://moymir.ru/hls/onair.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-chno="00" group-title="ИНФО",ОБНОВЛЕНИЕ: 19.11.2025г 19:39 
 https://iptvrus.github.io/z/info.mp4
+
 
 
 
