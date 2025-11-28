@@ -486,13 +486,6 @@ http://46.151.151.250:9043
 #EXTINF:-1 tvg-chno="162" tvg-id="russkiy-detektiv" group-title="Кино и сериалы",Русский Детектив
 http://46.151.151.250:9051
 
-
-
-#EXTINF:-1 tvg-chno="164" tvg-id="kinomix" group-title="Кино и сериалы",Киномикс
-http://46.8.46.14/kinomix/index.m3u8
-
-
-
 #EXTINF:-1 tvg-chno="166" tvg-id="amedia-premium" group-title="Кино и сериалы",Amedia Premium HD
 http://217.21.34.160:38007/amediapremium/index.m3u8
 
@@ -524,13 +517,17 @@ https://stream2.somon.tv/vipcomedy/index.m3u8
 http://87.76.32.36:8001/kinopremyerahd
 
 #EXTINF:-1 tvg-chno="170" tvg-id="kinosemya" group-title="Кино и сериалы",Киносемья
-http://46.8.46.14/kinosemya/index.m3u8
+http://94.232.127.28:8080/kinosemja/index.m3u8
+
+#EXTINF:-1 tvg-chno="164" tvg-id="kinomix" group-title="Кино и сериалы",Киномикс
+http://95.66.188.74/Kinomiks/mono.m3u8
+
+#EXTINF:-1 tvg-chno="172" tvg-id="kinohit" group-title="Кино и сериалы",Kиноxит HD
+http://195.26.83.96:7005/play/a00m/index.m3u8
 
 #EXTINF:-1 tvg-chno="171" tvg-id="rodnoe-kino" group-title="Кино и сериалы",Родное Кино
 http://146.120.14.239:3001/play/a07z
 
-#EXTINF:-1 tvg-chno="172" tvg-id="kinohit" group-title="Кино и сериалы",Kиноxит HD
-http://195.26.83.96:7005/play/a00m/index.m3u8
 
 #EXTINF:-1 tvg-chno="173" tvg-id="dorama" group-title="Кино и сериалы",Дорама HD
 http://193.27.209.122/dorama/index.m3u8
@@ -748,6 +745,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/kucunucum9ym9yy/chunks.m3u8
 
 #EXTINF:-1 tvg-chno="3" tvg-id="match-tv" group-title="ТЕСТ",Матч! ТВ HD
 https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
+
 
 
 
