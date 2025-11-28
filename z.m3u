@@ -26,7 +26,7 @@ http://31.148.48.15/Karusel_HD/index.m3u8
 http://95.66.188.74/OTR/index.m3u8
 
 #EXTINF:-1 tvg-chno="10" tvg-id="tvcentr" tvg-logo="https://iptvx.one/picons/tvcentr.png" group-title="Федеральные",ТВ Центр
-https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
+http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="11" tvg-id="rentv" group-title="Федеральные",РЕН ТВ
 http://185.46.16.239:8000/REN_TV
@@ -118,7 +118,7 @@ http://178.212.71.253:8000/play/113/index.m3u8
 
 
 #EXTINF:-1 tvg-chno="87" tvg-id="kuhnya" group-title="Развлекательные",Кухня HD
-http://46.8.46.14/kuhnya/index.m3u8
+http://95.66.188.74:80/Kuhnya/mono.m3u8
 
 #EXTINF:-1 tvg-chno="87" tvg-id="kuhnya" group-title="Развлекательные",Food Time HD
 http://195.191.208.11:8087/udp/238.2.48.141:1234
@@ -749,6 +749,7 @@ https://iptvrus.github.io/z/info.mp4
 #EXTM3U
 #EXTINF:-1 tvg-chno="3" tvg-id="match-tv" group-title="ТЕСТ",Матч! ТВ HD
 https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
+
 
 
 
