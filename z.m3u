@@ -111,7 +111,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
 http://178.212.71.253:8000/play/106/index.m3u8
 
 #EXTINF:-1 tvg-chno="83" tvg-id="kvn-tv" group-title="Развлекательные",КВН ТВ
-http://46.8.46.14/kvn/index.m3u8
+http://146.120.14.239:3001/play/a086
 
 #EXTINF:-1 tvg-chno="85" tvg-id="2x2" group-title="Развлекательные",2x2
 http://178.212.71.253:8000/play/113/index.m3u8
@@ -293,7 +293,7 @@ http://cdn-01.bonus-tv.ru:80/gsl/tracks-v1a1/mono.m3u8
 http://193.25.8.59:8000/natgeo
 
 #EXTINF:-1 tvg-chno="97" tvg-id="v-mire-zhivotnyh" group-title="Познавательные",В Мире Животных HD
-http://91.194.191.241:8081/chid209/tracks-v1a1/mono.m3u8
+https://streamer1.connectto.com/513/mono.m3u8
 
 #EXTINF:-1 tvg-chno="98" tvg-id="zvezda-plus" group-title="Познавательные",Звезда Плюс HD
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v1a1/mono.ts.m3u8
@@ -745,6 +745,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/kucunucum9ym9yy/chunks.m3u8
 
 #EXTINF:-1 tvg-chno="3" tvg-id="match-tv" group-title="ТЕСТ",Матч! ТВ HD
 https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
+
 
 
 
