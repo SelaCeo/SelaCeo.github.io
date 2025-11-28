@@ -230,7 +230,7 @@ http://194.28.61.170:8888/kinotv_hd
 
 
 #EXTINF:-1 tvg-chno="59" tvg-id="amedia2" group-title="Кино и сериалы",Amedia 2
-http://mfe01.cliptv.az/dash/Amedia_2_SD_PIgjf67deV.ism/playlist.mpd
+http://45.145.32.13:20440/kineko/index.m3u8?token=test
 
 #EXTINF:-1 tvg-chno="60" tvg-id="amedia1" group-title="Кино и сериалы",Amedia 1
 http://sc.id-tv.kz/A1.m3u8
@@ -486,8 +486,7 @@ http://46.151.151.250:9043
 #EXTINF:-1 tvg-chno="162" tvg-id="russkiy-detektiv" group-title="Кино и сериалы",Русский Детектив
 http://46.151.151.250:9051
 
-#EXTINF:-1 tvg-chno="163" tvg-id="viju-megahit" group-title="Кино и сериалы",Viju+ Megahit HD
-http://46.8.46.14/vipmegahit/index.m3u8
+
 
 #EXTINF:-1 tvg-chno="164" tvg-id="kinomix" group-title="Кино и сериалы",Киномикс
 http://46.8.46.14/kinomix/index.m3u8
@@ -497,11 +496,29 @@ http://46.8.46.14/kinomix/index.m3u8
 #EXTINF:-1 tvg-chno="166" tvg-id="amedia-premium" group-title="Кино и сериалы",Amedia Premium HD
 http://217.21.34.160:38007/amediapremium/index.m3u8
 
+#EXTINF:-1 tvg-chno="214" tvg-id="tv1000-russkoe" group-title="Кино и сериалы",Viju TV1000 Русское HD
+http://46.151.151.250:9183
+
+#EXTINF:-1 tvg-chno="215" tvg-id="tv1000" group-title="Кино и сериалы",Viju TV1000
+http://217.11.177.56/streams/media/tv1000_720x576/index.m3u8
+
+#EXTINF:-1 tvg-chno="216" tvg-id="tv1000-action" group-title="Кино и сериалы",Viju TV1000 Action
+http://217.11.177.56/streams/media/tv1000-action_720x576/index.m3u8
+
+#EXTINF:-1 tvg-chno="216" tvg-id="tv1000-romantica" group-title="Кино и сериалы",Viju TV1000 Romantica
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=FjbYpn46bZ-WvQANOmfnGw&e=1765028785&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+
+#EXTINF:-1 tvg-chno="163" tvg-id="viju-megahit" group-title="Кино и сериалы",Viju+ Megahit HD
+https://stream2.somon.tv/vipmegahit/index.m3u8
+
 #EXTINF:-1 tvg-chno="167" tvg-id="viju-premiere" group-title="Кино и сериалы",Viju+ Premiere HD
-http://2.57.217.85:8000/play/a03f/index.m3u8
+https://stream2.somon.tv/vippremiera/index.m3u8
+
+#EXTINF:-1 tvg-chno="175" tvg-id="viju-serial" group-title="Кино и сериалы",Viju+ Serial
+https://stream2.somon.tv/vipserial/index.m3u8
 
 #EXTINF:-1 tvg-chno="168" tvg-id="viju-comedy" group-title="Кино и сериалы",Viju+ Comedy HD
-http://46.8.46.14/vipcomedy/index.m3u8
+https://stream2.somon.tv/vipcomedy/index.m3u8
 
 #EXTINF:-1 tvg-chno="169" tvg-id="kinopremiera" group-title="Кино и сериалы",Кинопремьера HD
 http://87.76.32.36:8001/kinopremyerahd
@@ -521,8 +538,7 @@ http://193.27.209.122/dorama/index.m3u8
 #EXTINF:-1 tvg-chno="174" tvg-id="komediya" group-title="Кино и сериалы",Комедия
 http://46.151.151.250:9050
 
-#EXTINF:-1 tvg-chno="175" tvg-id="viju-serial" group-title="Кино и сериалы",Viju+ Serial
-http://91.194.191.241:8081/chid40/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-chno="176" tvg-id="amedia-hit" group-title="Кино и сериалы",Amedia Hit HD
 http://91.207.115.228:5000/c57
@@ -562,7 +578,7 @@ http://127.0.0.1:6878/ace/getstream?id=0d59f0292f9e5569f4dff50ac4c3c89913b32a7a
 http://31.148.48.15:80/Zhivaya_Planeta/index.m3u8
 
 #EXTINF:-1 tvg-chno="191" tvg-id="oruzhie" group-title="Познавательные",Оружие
-http://46.8.46.14/Oruzhie/index.m3u8
+http://146.120.14.239:3001/play/a09a
 
 #EXTINF:-1 tvg-chno="192" tvg-id="rtg" group-title="Познавательные",RTG HD
 http://95.66.188.74/RTGHD/index.m3u8
@@ -639,17 +655,7 @@ http://146.120.14.239:3001/play/a078
 #EXTINF:-1 tvg-chno="213" tvg-id="cgtn" group-title="Новостные",CGTN Русский
 https://russian-liveali.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="214" tvg-id="tv1000-russkoe" group-title="Кино и сериалы",Viju TV1000 Русское HD
-http://46.151.151.250:9183
 
-#EXTINF:-1 tvg-chno="215" tvg-id="tv1000" group-title="Кино и сериалы",Viju TV1000
-http://217.11.177.56/streams/media/tv1000_720x576/index.m3u8
-
-#EXTINF:-1 tvg-chno="216" tvg-id="tv1000-action" group-title="Кино и сериалы",Viju TV1000 Action
-http://217.11.177.56/streams/media/tv1000-action_720x576/index.m3u8
-
-#EXTINF:-1 tvg-chno="216" tvg-id="tv1000-romantica" group-title="Кино и сериалы",Viju TV1000 Romantica
-https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=ppPZwasa5HGUlyAsyHZV3Q&e=1763954420&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 
 
 
@@ -687,9 +693,11 @@ http://sochinskayatrk.ru/hdtv/hls/CTPK_400/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.goodgame.ru/files/avatars/av_1676704_9wc1.jpg" group-title="Кинозалы",Moviee Toper
 #EXTVLCOPT:http-user-agent=SmartTV
 http://195.9.195.3:8080/hls/214749.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.goodgame.ru/files/avatars/av_1651532_atYl.jpg" group-title="Кинозалы",Kino Jam
 #EXTVLCOPT:http-user-agent=SmartTV
 http://195.9.195.3:8080/hls/210182.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.goodgame.ru/files/avatars/av_avatar_hum.png" group-title="Кинозалы",КиноФраншизы 24/7
 #EXTVLCOPT:http-user-agent=SmartTV
 http://195.9.195.3:8080/hls/218193.m3u8
@@ -713,13 +721,6 @@ http://195.9.195.3:8080/hls/204717.m3u8
 #EXTVLCOPT:http-user-agent=SmartTV
 http://195.9.195.3:8080/hls/204722.m3u8
 
-#EXTINF:-1 tvg-chno="217" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="selecao-filmy" group-title="ТЕСТ",SeleCaoTV Фильмы (зеркало)
-https://live20.bozztv.com/akamaissh101/ssh101/kucunucum9ym9y/chunks.m3u8
-#EXTINF:-1 tvg-chno="218" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="ТЕСТ",SeleCaoTV Сериалы (зеркало)
-https://live20.bozztv.com/akamaissh101/ssh101/esperanza/chunks.m3u8
-#EXTINF:-1 tvg-chno="219" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="ТЕСТ",Aниме TB (зеркало)
-https://live20.bozztv.com/akamaissh101/ssh101/kucunucum9ym9yy/chunks.m3u8
-
 #EXTINF:-1 tvg-chno="35" tvg-id="leomax24" group-title="Телемагазин",Leomax 24 HD
 https://tvshops.bonus-tv.ru/cdn/shop24/playlist.m3u8
 
@@ -732,13 +733,22 @@ http://serv30.vintera.tv:8081/shoppinglive/shoppinglive_stream/playlist.m3u8
 #EXTINF:-1 tvg-chno="30" tvg-id="moymir" group-title="Телемагазин",Мой Мир HD
 http://moymir.ru/hls/onair.m3u8
 
-#EXTM3U
-#EXTINF:-1 tvg-chno="00" group-title="ИНФО",ОБНОВЛЕНИЕ: 19.11.2025г 19:39 
+#EXTINF:-1 tvg-chno="00" group-title="ИНФО",ОБНОВЛЕНИЕ: 28.11.2025г 19:39 
 https://iptvrus.github.io/z/info.mp4
 
-#EXTM3U
+
+#EXTINF:-1 tvg-chno="217" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="selecao-filmy" group-title="ТЕСТ",SeleCaoTV Фильмы (зеркало)
+https://live20.bozztv.com/akamaissh101/ssh101/kucunucum9ym9y/chunks.m3u8
+
+#EXTINF:-1 tvg-chno="218" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="ТЕСТ",SeleCaoTV Сериалы (зеркало)
+https://live20.bozztv.com/akamaissh101/ssh101/esperanza/chunks.m3u8
+
+#EXTINF:-1 tvg-chno="219" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="ТЕСТ",Aниме TB (зеркало)
+https://live20.bozztv.com/akamaissh101/ssh101/kucunucum9ym9yy/chunks.m3u8
+
 #EXTINF:-1 tvg-chno="3" tvg-id="match-tv" group-title="ТЕСТ",Матч! ТВ HD
 https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
+
 
 
 
