@@ -568,8 +568,20 @@ http://45.11.139.43:8555/365dney/index.m3u8
 #EXTINF:-1 tvg-chno="188" tvg-id="english-class" group-title="Познавательные",English Class
 http://31.148.48.15:80/English_club_TV_HD/index.m3u8
 
+#EXTINF:-1 tvg-chno="189" tvg-id="natgeo" group-title="Познавательные",National Geographic
+http://94.232.127.28:8080/natgeo/index.m3u8
+
+#EXTINF:-1 tvg-chno="189" tvg-id="natgeowild" group-title="Познавательные",Nat Geo Wild
+http://94.232.127.28:8080/natgeowildhd/index.m3u8
+
+#EXTINF:-1 tvg-chno="189" tvg-id="discoveryhd" group-title="Познавательные",Discovery HD
+http://94.232.127.28:8080/discovery-east/index.m3u8
+
+#EXTINF:-1 tvg-chno="189" tvg-id="animalplanethd" group-title="Познавательные",Animal Planet HD
+http://94.232.127.28:8080/animalplanethd/index.m3u8
+
 #EXTINF:-1 tvg-chno="189" tvg-id="viju-planet" group-title="Познавательные",Viju+ Planet
-http://127.0.0.1:6878/ace/getstream?id=0d59f0292f9e5569f4dff50ac4c3c89913b32a7a
+http://195.64.140.147:10147/147
 
 #EXTINF:-1 tvg-chno="190" tvg-id="zhivaya-planeta" group-title="Познавательные",Живая Планета
 http://31.148.48.15:80/Zhivaya_Planeta/index.m3u8
@@ -745,6 +757,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/kucunucum9ym9yy/chunks.m3u8
 
 #EXTINF:-1 tvg-chno="3" tvg-id="match-tv" group-title="ТЕСТ",Матч! ТВ HD
 https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
+
 
 
 
