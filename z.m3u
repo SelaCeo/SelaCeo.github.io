@@ -35,7 +35,7 @@ http://185.46.16.239:8000/REN_TV
 http://185.46.16.239:8000/Spas
 
 #EXTINF:-1 tvg-chno="13" tvg-id="sts" group-title="Федеральные",СТС
-https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
+https://streaming.televizor-24-tochka.ru/live/16.m3u8
 
 #EXTINF:-1 tvg-chno="14" tvg-id="domashny" group-title="Федеральные",Домашний 
 http://146.120.14.239:3001/play/a06n
@@ -745,6 +745,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/kucunucum9ym9yy/chunks.m3u8
 
 #EXTINF:-1 tvg-chno="3" tvg-id="match-tv" group-title="ТЕСТ",Матч! ТВ HD
 https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
+
 
 
 
