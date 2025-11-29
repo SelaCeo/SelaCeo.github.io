@@ -233,7 +233,7 @@ http://194.28.61.170:8888/kinotv_hd
 http://45.145.32.13:20440/kineko/index.m3u8?token=test
 
 #EXTINF:-1 tvg-chno="60" tvg-id="amedia1" group-title="Кино и сериалы",Amedia 1
-http://sc.id-tv.kz/A1.m3u8
+http://91.207.115.228:5000/c55
 
 #EXTINF:-1 tvg-chno="61" tvg-id="illyuzion-plus" group-title="Кино и сериалы",Иллюзион+
 http://31.148.48.15:80/Illusion_plus/index.m3u8
@@ -757,6 +757,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/kucunucum9ym9yy/chunks.m3u8
 
 #EXTINF:-1 tvg-chno="3" tvg-id="match-tv" group-title="ТЕСТ",Матч! ТВ HD
 https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
+
 
 
 
