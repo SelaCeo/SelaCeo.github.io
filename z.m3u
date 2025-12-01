@@ -20,7 +20,7 @@ http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/index.m3u8
 
 #EXTINF:-1 tvg-chno="8" tvg-id="karusel-fhd" group-title="Детские",Карусель HD
-http://31.148.48.15/Karusel_HD/index.m3u8
+http://95.66.188.74/Karusel/mono.m3u8
 
 #EXTINF:-1 tvg-chno="9" tvg-id="otr" group-title="Федеральные",ОТР
 http://95.66.188.74/OTR/index.m3u8
@@ -276,7 +276,7 @@ http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v1a1/mono.ts.m3u8
 http://95.66.188.74/Arsenal_HD/index.m3u8
 
 #EXTINF:-1 tvg-chno="100" tvg-id="big-planet" group-title="Познавательные",Big Planet
-http://91.207.115.228:5000/c94
+http://45.145.32.13:20440/bigplanet/index.m3u8?token=test
 
 #EXTINF:-1 tvg-chno="101" tvg-id="moya-planeta" group-title="Познавательные",Моя Планета HD
 http://31.148.48.15:80/Moya_Planeta_HD/index.m3u8
@@ -776,6 +776,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/esperanza/chunks.m3u8
 
 #EXTINF:-1 tvg-chno="219" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="ТЕСТ",Aниме TB (зеркало)
 https://live20.bozztv.com/akamaissh101/ssh101/kucunucum9ym9yy/chunks.m3u8
+
 
 
 
