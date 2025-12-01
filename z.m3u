@@ -4,14 +4,14 @@ http://2.57.217.85:8000/play/a035/index.m3u8
 #EXTINF:-1 tvg-chno="2" tvg-id="rossia1-hd" group-title="Федеральные",Россия 1 HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 
-#EXTINF:-1 tvg-chno="3" tvg-id="match-tv" group-title="Спортивные",Матч! ТВ
-http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-chno="3" tvg-id="match-tv" group-title="Федеральные",Матч! ТВ HD
+https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
 
 #EXTINF:-1 tvg-chno="4" tvg-id="ntv-hd" group-title="Федеральные",НТВ HD
 http://cdn2.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-chno="5" tvg-id="5kanal-ru" group-title="Федеральные",Пятый канал
-http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
+http://193.25.8.59:8000/5
 
 #EXTINF:-1 tvg-chno="6" tvg-id="kultura" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_kultura.png" group-title="Федеральные",Россия К HD
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
@@ -35,7 +35,7 @@ http://185.46.16.239:8000/REN_TV
 http://185.46.16.239:8000/Spas
 
 #EXTINF:-1 tvg-chno="13" tvg-id="sts" group-title="Федеральные",СТС
-https://streaming.televizor-24-tochka.ru/live/16.m3u8
+http://95.163.85.128/streams/media/ctc_720x576/index.m3u8
 
 #EXTINF:-1 tvg-chno="14" tvg-id="domashny" group-title="Федеральные",Домашний 
 http://146.120.14.239:3001/play/a06n
@@ -152,9 +152,6 @@ http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/track
 
 #EXTINF:-1 tvg-chno="92" tvg-id="lapki" group-title="Развлекательные",Лапки Live
 http://45.145.32.13:20440/unikum/index.m3u8?token=test
-
-#EXTINF:-1 tvg-chno="31" tvg-id="che" group-title="Развлекательные",СТС
-https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
 
 #EXTINF:-1 tvg-chno="144" tvg-id="domashny" group-title="Развлекательные",Домашний
 http://185.46.16.239:8000/Domashniy
@@ -367,7 +364,7 @@ http://tv.mediacdn.ru/live/solntse/playlist.m3u8
 http://193.27.209.122/tiji/index.m3u8
 
 #EXTINF:-1 tvg-chno="129" tvg-id="ducktv" group-title="Детские",Duck TV
-http://193.27.209.122/ducktv/index.m3u8
+http://146.120.14.239:3001/play/a075
 
 #EXTINF:-1 tvg-chno="130" tvg-id="supergeroi" group-title="Детские",СуперГерои
 http://109.94.1.3:8080/132/index.m3u8
@@ -451,9 +448,6 @@ http://bsttv.bonus-tv.ru:80/cdn/hdbst/playlist_hdhigh.m3u8
 
 #EXTINF:-1 tvg-chno="160" tvg-id="silk-way" group-title="Национальные",Silk Way
 https://ikomg-kazakh.akamaized.net/kazakh/kazakh.m3u8
-
-#EXTINF:-1 tvg-chno="161" tvg-id="russkiy-bestseller" group-title="Кино и сериалы",Русский Бестселлер
-http://91.207.115.228:5000/c34
 
 #EXTINF:-1 tvg-chno="161" tvg-id="russkiy-bestseller" group-title="Кино и сериалы",Русский Бестселлер
 http://178.212.71.253:8000/play/115/index.m3u8
@@ -640,7 +634,8 @@ https://flussonic.salomtv.uz/eurosport_2/video.m3u8
 http://193.25.8.59:8000/viasatsport
 
 #EXTINF:-1 tvg-chno="200" tvg-id="mma-tv" group-title="Спортивные",MMA-TV.COM
-http://87.76.32.36:8001/m1global
+http://146.120.14.239:3001/play/a08k
+
 
 #EXTINF:-1 tvg-chno="203" tvg-id="boks-tv" group-title="Спортивные",Бокс ТВ
 http://185.46.16.239:8000/Eurosport_1
@@ -659,6 +654,9 @@ http://195.191.208.11:8087/udp/238.2.49.12:1234
 
 #EXTINF:-1 tvg-chno="126" tvg-id="match-strana" group-title="Спортивные",Матч Страна
 http://95.163.85.128/streams/media/match-strana_720x576/index.m3u8
+
+#EXTINF:-1 tvg-chno="3" tvg-id="match-tv" group-title="Спортивные",Матч! ТВ
+http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
 
 
 
@@ -785,8 +783,10 @@ https://live20.bozztv.com/akamaissh101/ssh101/esperanza/chunks.m3u8
 #EXTINF:-1 tvg-chno="219" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="ТЕСТ",Aниме TB (зеркало)
 https://live20.bozztv.com/akamaissh101/ssh101/kucunucum9ym9yy/chunks.m3u8
 
-#EXTINF:-1 tvg-chno="3" tvg-id="match-tv" group-title="ТЕСТ",Матч! ТВ HD
-https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
+
+
+
+
 
 
 
