@@ -144,8 +144,6 @@ http://195.158.223.132:8006/Sarafan
 #EXTINF:-1 tvg-chno="91" tvg-id="360-novosti" group-title="Развлекательные",360 Новости
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/tracks-v5a1/mono.m3u8
 
-#EXTINF:-1 tvg-chno="92" tvg-id="lapki" group-title="Развлекательные",Лапки Live
-http://45.145.32.13:20440/unikum/index.m3u8?token=test
 
 #EXTINF:-1 tvg-chno="144" tvg-id="domashny" group-title="Развлекательные",Домашний
 http://185.46.16.239:8000/Domashniy
@@ -156,7 +154,6 @@ http://95.66.188.74/Nostalgia/index.m3u8
 #EXTINF:-1 tvg-chno="36" tvg-id="mosfilm-zoloto" group-title="Кино и сериалы",Мосфильм. Золотая коллекция
 http://5.8.11.96:8099/mosfilmhd/index.m3u8
 
-
 #EXTINF:-1 tvg-chno="44" tvg-id="dom-kino" group-title="Кино и сериалы",Дом кино
 http://217.21.34.160:38005/domkino/index.m3u8
 
@@ -166,14 +163,11 @@ http://95.66.188.74/DomKinoPremiumHD/index.m3u8
 #EXTINF:-1 tvg-chno="65" tvg-id="nash-nov-kino" group-title="Кино и сериалы",Наше Новое Кино
 http://93.113.203.165/iptv/F5BM9GXMAPYBDK/19231/index.m3u8
 
-
 #EXTINF:-1 tvg-chno="52" tvg-id="start-air" group-title="Кино и сериалы",Start Air
 http://93.113.203.165/iptv/F5BM9GXMAPYBDK/18036/index.m3u8
 
 #EXTINF:-1 tvg-chno="57" tvg-id="sts-love" group-title="Кино и сериалы",СТС Love
 http://194.143.148.28:8080/CTC_LOVE/tracks-v1a1/mono.m3u8
-
-
 
 #EXTINF:-1 tvg-chno="46" tvg-id="kinoko" group-title="Кино и сериалы",Кинеко
 http://195.191.208.11:8087/udp/238.9.64.178:1234
@@ -205,7 +199,6 @@ http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-chno="55" tvg-id="kinotv-hd" group-title="Кино и сериалы",Kино TB HD
 http://194.28.61.170:8888/kinotv_hd
 
-
 #EXTINF:-1 tvg-chno="59" tvg-id="amedia2" group-title="Кино и сериалы",Amedia 2
 http://45.145.32.13:20440/kineko/index.m3u8?token=test
 
@@ -217,8 +210,6 @@ http://31.148.48.15:80/Illusion_plus/index.m3u8
 
 #EXTINF:-1 tvg-chno="62" tvg-id="hollywood-hd" group-title="Кино и сериалы",Hollywood HD
 http://195.191.208.11:8087/udp/238.9.64.176:1234
-
-
 
 #EXTINF:-1 tvg-chno="70" tvg-id="cinema" group-title="Кино и сериалы",Cinema 
 http://catchup.videoline.ru/cinema/tracks-v1a1/mono.m3u8
@@ -266,14 +257,35 @@ http://cdn-01.bonus-tv.ru:80/gsl/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-chno="96" tvg-id="terra" group-title="Познавательные",Terra
 http://193.25.8.59:8000/natgeo
 
-#EXTINF:-1 tvg-chno="97" tvg-id="v-mire-zhivotnyh" group-title="Познавательные",В Мире Животных HD
+#EXTINF:-1 tvg-chno="92" tvg-id="lapki" group-title="Развлекательные",Лапки Live
+http://45.145.32.13:20440/unikum/index.m3u8?token=test
+
+#EXTINF:-1 tvg-chno="93" tvg-id="v-mire-zhivotnyh" group-title="Познавательные",В Мире Животных HD
 https://streamer1.connectto.com/513/mono.m3u8
 
-#EXTINF:-1 tvg-chno="98" tvg-id="zvezda-plus" group-title="Познавательные",Звезда Плюс HD
-http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-chno="94" tvg-id="animalplanethd" group-title="Познавательные",Animal Planet HD
+https://vod.splay.uz/live_splay/original/Animal_Planet/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-chno="99" tvg-id="arsenal" group-title="Познавательные",Арсенал HD
-http://95.66.188.74/Arsenal_HD/index.m3u8
+#EXTINF:-1 tvg-chno="95" tvg-id="natgeowild" group-title="Познавательные",Nat Geo Wild
+http://94.232.127.28:8080/natgeowildhd/index.m3u8
+
+#EXTINF:-1 tvg-chno="97" tvg-id="zhivaya-planeta" group-title="Познавательные",Живая Планета
+http://31.148.48.15:80/Zhivaya_Planeta/index.m3u8
+
+#EXTINF:-1 tvg-chno="96" tvg-id="viju-planet" group-title="Познавательные",Viju+ Planet
+http://195.64.140.147:10147/147
+
+#EXTINF:-1 tvg-chno="115" tvg-id="viju-nature" group-title="Познавательные",Viju Nature
+http://193.25.8.59:8000/nature
+
+#EXTINF:-1 tvg-chno="114" tvg-id="viju-explore" group-title="Познавательные",Viju Explore
+http://158.101.222.193:88/georgia_play.php?id=viasatexp
+
+#EXTINF:-1 tvg-chno="98" tvg-id="discoveryhd" group-title="Познавательные",Discovery HD
+http://5.188.159.128:8070/DiscoveryChannel/index.m3u8
+
+#EXTINF:-1 tvg-chno="99" tvg-id="natgeo" group-title="Познавательные",National Geographic
+http://94.232.127.28:8080/natgeo/index.m3u8
 
 #EXTINF:-1 tvg-chno="100" tvg-id="big-planet" group-title="Познавательные",Big Planet
 http://45.145.32.13:20440/bigplanet/index.m3u8?token=test
@@ -281,22 +293,26 @@ http://45.145.32.13:20440/bigplanet/index.m3u8?token=test
 #EXTINF:-1 tvg-chno="101" tvg-id="moya-planeta" group-title="Познавательные",Моя Планета HD
 http://31.148.48.15:80/Moya_Planeta_HD/index.m3u8
 
-#EXTINF:-1 tvg-chno="102" tvg-id="nauka" group-title="Познавательные",Наука
-http://178.212.71.253:8000/play/88/index.m3u8
-
 #EXTINF:-1 tvg-chno="103" tvg-id="da-vinci" group-title="Познавательные",Да Винчи
 http://158.101.222.193:88/georgia_play.php?id=davinci
 
+#EXTINF:-1 tvg-chno="102" tvg-id="nauka" group-title="Познавательные",Наука
+http://178.212.71.253:8000/play/88/index.m3u8
 
+#EXTINF:-1 tvg-chno="98" tvg-id="zvezda-plus" group-title="Познавательные",Звезда Плюс HD
+http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-chno="99" tvg-id="arsenal" group-title="Познавательные",Арсенал HD
+http://95.66.188.74/Arsenal_HD/index.m3u8
 
 #EXTINF:-1 tvg-chno="105" tvg-id="viju-history" group-title="Познавательные",Viju History
 http://195.191.208.11:8087/udp/238.2.49.235:1234
 
-#EXTINF:-1 tvg-chno="106" tvg-id="ohota-rybalka" group-title="Познавательные",Охотник и Рыболов HD
-http://31.148.48.15:80/Dom_Kino_Premium_HD/index.m3u8
+#EXTINF:-1 tvg-chno="111" tvg-id="istoriya" group-title="Познавательные",История
+http://31.148.48.15:80/Istoriya/index.m3u8
 
-#EXTINF:-1 tvg-chno="107" tvg-id="dialogi-rybalka" group-title="Познавательные",Диалоги о Рыбалке
-https://livetv.mylifeisgood.net.ru/channels/dialogiorybalke.m3u8
+#EXTINF:-1 tvg-chno="110" tvg-id="priklyucheniya" group-title="Познавательные",Приключения
+http://46.8.46.14/AdventureHD/index.m3u8
 
 #EXTINF:-1 tvg-chno="108" tvg-id="usadba" group-title="Познавательные",Усадьба
 http://95.66.188.74/Usadba/index.m3u8
@@ -304,11 +320,7 @@ http://95.66.188.74/Usadba/index.m3u8
 #EXTINF:-1 tvg-chno="109" tvg-id="mama-tv" group-title="Познавательные",Мама
 http://stv.mediacdn.ru/live/cdn/mama/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-chno="110" tvg-id="priklyucheniya" group-title="Познавательные",Приключения
-http://46.8.46.14/AdventureHD/index.m3u8
 
-#EXTINF:-1 tvg-chno="111" tvg-id="istoriya" group-title="Познавательные",История
-http://31.148.48.15:80/Istoriya/index.m3u8
 
 #EXTINF:-1 tvg-chno="112" tvg-id="rt-doc" group-title="Познавательные",RT Doc
 http://194.143.148.28:8080/RTD_HD/mpegts
@@ -316,17 +328,19 @@ http://194.143.148.28:8080/RTD_HD/mpegts
 #EXTINF:-1 tvg-chno="113" tvg-id="tekhno24" group-title="Познавательные",Техно 24
 http://217.21.34.160:38007/tehno24/index.m3u8
 
-#EXTINF:-1 tvg-chno="114" tvg-id="viju-explore" group-title="Познавательные",Viju Explore
-http://158.101.222.193:88/georgia_play.php?id=viasatexp
 
-#EXTINF:-1 tvg-chno="115" tvg-id="viju-nature" group-title="Познавательные",Viju Nature
-http://193.25.8.59:8000/nature
 
 #EXTINF:-1 tvg-chno="116" tvg-id="bobr" group-title="Познавательные",Бобер
 http://178.212.71.253:8002/play/a00m/index.m3u8
 
 #EXTINF:-1 tvg-chno="117" tvg-id="ntv-neizvestnaya-rossiya" group-title="Познавательные",НТВ Неизвестная Россия (HD)
 http://cdn2.ntv.ru/unknown_russia/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-chno="106" tvg-id="ohota-rybalka" group-title="Познавательные",Охотник и Рыболов HD
+http://31.148.48.15:80/Dom_Kino_Premium_HD/index.m3u8
+
+#EXTINF:-1 tvg-chno="107" tvg-id="dialogi-rybalka" group-title="Познавательные",Диалоги о Рыбалке
+https://livetv.mylifeisgood.net.ru/channels/dialogiorybalke.m3u8
 
 #EXTINF:-1 tvg-chno="118" tvg-id="dikaya-rybalka" group-title="Познавательные",Дикая рыбалка HD
 http://217.21.34.160:38007/dikayarybalkahd/index.m3u8
@@ -555,23 +569,7 @@ http://45.11.139.43:8555/365dney/index.m3u8
 #EXTINF:-1 tvg-chno="188" tvg-id="english-class" group-title="Познавательные",English Class
 http://31.148.48.15:80/English_club_TV_HD/index.m3u8
 
-#EXTINF:-1 tvg-chno="189" tvg-id="natgeo" group-title="Познавательные",National Geographic
-http://94.232.127.28:8080/natgeo/index.m3u8
 
-#EXTINF:-1 tvg-chno="189" tvg-id="natgeowild" group-title="Познавательные",Nat Geo Wild
-http://94.232.127.28:8080/natgeowildhd/index.m3u8
-
-#EXTINF:-1 tvg-chno="189" tvg-id="discoveryhd" group-title="Познавательные",Discovery HD
-http://94.232.127.28:8080/discovery-east/index.m3u8
-
-#EXTINF:-1 tvg-chno="189" tvg-id="animalplanethd" group-title="Познавательные",Animal Planet HD
-http://94.232.127.28:8080/animalplanethd/index.m3u8
-
-#EXTINF:-1 tvg-chno="189" tvg-id="viju-planet" group-title="Познавательные",Viju+ Planet
-http://195.64.140.147:10147/147
-
-#EXTINF:-1 tvg-chno="190" tvg-id="zhivaya-planeta" group-title="Познавательные",Живая Планета
-http://31.148.48.15:80/Zhivaya_Planeta/index.m3u8
 
 #EXTINF:-1 tvg-chno="191" tvg-id="oruzhie" group-title="Познавательные",Оружие
 http://146.120.14.239:3001/play/a09a
@@ -764,7 +762,7 @@ http://serv30.vintera.tv:8081/shoppinglive/shoppinglive_stream/playlist.m3u8
 #EXTINF:-1 tvg-chno="30" tvg-id="moymir" group-title="Телемагазин",Мой Мир HD
 http://moymir.ru/hls/onair.m3u8
 
-#EXTINF:-1 tvg-chno="00" group-title="ИНФО",ОБНОВЛЕНИЕ: 28.11.2025г 19:39 
+#EXTINF:-1 tvg-chno="00" group-title="ИНФО",ОБНОВЛЕНИЕ: 02.12.2025г 19:39 
 https://iptvrus.github.io/z/info.mp4
 
 
@@ -776,6 +774,10 @@ https://live20.bozztv.com/akamaissh101/ssh101/esperanza/chunks.m3u8
 
 #EXTINF:-1 tvg-chno="219" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="ТЕСТ",Aниме TB (зеркало)
 https://live20.bozztv.com/akamaissh101/ssh101/kucunucum9ym9yy/chunks.m3u8
+
+
+
+
 
 
 
