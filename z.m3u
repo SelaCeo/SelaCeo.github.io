@@ -340,17 +340,20 @@ http://178.212.71.253:8002/play/a00m/index.m3u8
 #EXTINF:-1 tvg-chno="117" tvg-id="ntv-neizvestnaya-rossiya" group-title="Познавательные",НТВ Неизвестная Россия (HD)
 http://cdn2.ntv.ru/unknown_russia/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-chno="106" tvg-id="ohota-rybalka" group-title="Познавательные",Охота и рыбалка
+http://api.peers.tv/timeshift/hafi/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjQ5OTMxMDMsImlhdCI6MTc2NDkwNjcwMywiY2lkIjo2LCJ1aWQiOjk3MTgwNDk5NiwicmVnIjpmYWxzZSwiaXAiOjM3NDYyNTI0LCJhZHVsdCI6ZmFsc2V9.jWt0PHHYLfpYBJV7xaHXaIV57Ka7_FtZGp8NsWvOHHw&offset=10
+
 #EXTINF:-1 tvg-chno="106" tvg-id="ohota-rybalka" group-title="Познавательные",Охотник и Рыболов HD
 http://31.148.48.15:80/Dom_Kino_Premium_HD/index.m3u8
 
 #EXTINF:-1 tvg-chno="107" tvg-id="dialogi-rybalka" group-title="Познавательные",Диалоги о Рыбалке
-https://livetv.mylifeisgood.net.ru/channels/dialogiorybalke.m3u8
+http://api.peers.tv/timeshift/dialogi_o_rybalke/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjQ5OTMxMDMsImlhdCI6MTc2NDkwNjcwMywiY2lkIjo2LCJ1aWQiOjk3MTgwNDk5NiwicmVnIjpmYWxzZSwiaXAiOjM3NDYyNTI0LCJhZHVsdCI6ZmFsc2V9.jWt0PHHYLfpYBJV7xaHXaIV57Ka7_FtZGp8NsWvOHHw&offset=10
 
 #EXTINF:-1 tvg-chno="118" tvg-id="dikaya-rybalka" group-title="Познавательные",Дикая рыбалка HD
-http://217.21.34.160:38007/dikayarybalkahd/index.m3u8
+http://185.78.112.57:8077/DikayaRybalkaHD/index.m3u8
 
 #EXTINF:-1 tvg-chno="119" tvg-id="dikaya-ohota" group-title="Познавательные",Дикая охота HD
-http://217.21.34.160:38007/dikayaohotahd/index.m3u8
+http://185.78.112.57:8077/DikayaRybalkaHD/index.m3u8
 
 #EXTINF:-1 tvg-chno="121" tvg-id="avto-plus" group-title="Познавательные",Авто Плюс
 http://178.212.71.253:8000/play/69/index.m3u8
@@ -802,6 +805,7 @@ http://195.9.195.3:8080/hls/5346.m3u8
 
 #EXTINF:-1 tvg-chno="00" group-title="ИНФО",ОБНОВЛЕНИЕ: 02.12.2025г 19:39 
 https://iptvrus.github.io/z/info.mp4
+
 
 
 
