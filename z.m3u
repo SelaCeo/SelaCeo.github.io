@@ -271,7 +271,7 @@ https://streamer1.connectto.com/513/mono.m3u8
 https://vod.splay.uz/live_splay/original/Animal_Planet/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-chno="95" tvg-id="natgeowild" group-title="Познавательные",Nat Geo Wild
-http://94.232.127.28:8080/natgeowildhd/index.m3u8
+http://185.78.112.57:8077/natgeo_wild_hd/index.m3u8
 
 #EXTINF:-1 tvg-chno="97" tvg-id="zhivaya-planeta" group-title="Познавательные",Живая Планета
 http://31.148.48.15:80/Zhivaya_Planeta/index.m3u8
@@ -805,6 +805,7 @@ http://195.9.195.3:8080/hls/5346.m3u8
 
 #EXTINF:-1 tvg-chno="00" group-title="ИНФО",ОБНОВЛЕНИЕ: 02.12.2025г 19:39 
 https://iptvrus.github.io/z/info.mp4
+
 
 
 
