@@ -170,7 +170,13 @@ http://93.113.203.165/iptv/F5BM9GXMAPYBDK/18036/index.m3u8
 http://194.143.148.28:8080/CTC_LOVE/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-chno="46" tvg-id="kinoko" group-title="Кино и сериалы",Кинеко
-http://195.191.208.11:8087/udp/238.9.64.178:1234
+http://194.143.148.28:8080/KINEKO/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-chno="173" tvg-id="dorama" group-title="Кино и сериалы",Дорама HD
+http://193.27.209.122/dorama/index.m3u8
+
+#EXTINF:-1 tvg-chno="81" tvg-id="indiya" group-title="Кино и сериалы",Индия
+http://178.212.71.253:8000/play/59/index.m3u8
 
 #EXTINF:-1 tvg-chno="47" tvg-id="sapfir" group-title="Кино и сериалы",Сапфир
 http://195.191.208.11:8087/udp/238.2.49.239:1234
@@ -197,7 +203,7 @@ http://95.66.188.74/.black/index.m3u8
 http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-chno="55" tvg-id="kinotv-hd" group-title="Кино и сериалы",Kино TB HD
-http://194.28.61.170:8888/kinotv_hd
+http://tv.ttk.mx:9113
 
 #EXTINF:-1 tvg-chno="59" tvg-id="amedia2" group-title="Кино и сериалы",Amedia 2
 http://45.145.32.13:20440/kineko/index.m3u8?token=test
@@ -209,7 +215,7 @@ http://146.120.14.239:3001/play/a07g
 http://31.148.48.15:80/Illusion_plus/index.m3u8
 
 #EXTINF:-1 tvg-chno="62" tvg-id="hollywood-hd" group-title="Кино и сериалы",Hollywood HD
-http://195.191.208.11:8087/udp/238.9.64.176:1234
+http://146.120.14.239:3001/play/a06t
 
 #EXTINF:-1 tvg-chno="70" tvg-id="cinema" group-title="Кино и сериалы",Cinema 
 http://catchup.videoline.ru/cinema/tracks-v1a1/mono.m3u8
@@ -241,8 +247,6 @@ http://146.120.14.239:3001/play/a0bx
 #EXTINF:-1 tvg-chno="80" tvg-id="romantichnoe" group-title="Кино и сериалы",Романтичное HD
 http://46.8.46.14/Romantichnoe_HD/index.m3u8
 
-#EXTINF:-1 tvg-chno="81" tvg-id="indiya" group-title="Кино и сериалы",Индия
-http://178.212.71.253:8000/play/59/index.m3u8
 
 
 #EXTINF:-1 tvg-chno="93" tvg-id="gameplay" group-title="Геймеры",Gameplay
@@ -281,8 +285,8 @@ http://193.25.8.59:8000/nature
 #EXTINF:-1 tvg-chno="114" tvg-id="viju-explore" group-title="Познавательные",Viju Explore
 http://158.101.222.193:88/georgia_play.php?id=viasatexp
 
-#EXTINF:-1 tvg-chno="98" tvg-id="discoveryhd" group-title="Познавательные",Discovery HD
-http://5.188.159.128:8070/DiscoveryChannel/index.m3u8
+#EXTINF:-1 tvg-chno="98" tvg-id="discovery" group-title="Познавательные",Discovery
+http://146.120.14.239:3001/play/a06y
 
 #EXTINF:-1 tvg-chno="99" tvg-id="natgeo" group-title="Познавательные",National Geographic
 http://94.232.127.28:8080/natgeo/index.m3u8
@@ -530,9 +534,6 @@ https://stream2.somon.tv/vipcomedy/index.m3u8
 #EXTINF:-1 tvg-chno="171" tvg-id="rodnoe-kino" group-title="Кино и сериалы",Родное Кино
 http://146.120.14.239:3001/play/a07z
 
-#EXTINF:-1 tvg-chno="173" tvg-id="dorama" group-title="Кино и сериалы",Дорама HD
-http://193.27.209.122/dorama/index.m3u8
-
 #EXTINF:-1 tvg-chno="174" tvg-id="komediya" group-title="Кино и сериалы",Комедия
 http://46.151.151.250:9050
 
@@ -670,7 +671,7 @@ http://95.66.188.74/Cartoon_Classics/index.m3u8
 http://stv.mediacdn.ru/live/cdn/ani/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="209" tvg-id="multilandia" group-title="Детские",Мультиландия
-http://195.191.208.11:8087/udp/238.9.64.116:1234
+http://146.120.14.239:3001/play/a08z
 
 #EXTINF:-1 tvg-chno="210" tvg-id="kapitan-fantastika" group-title="Детские",Капитан Фантастика
 http://195.191.208.11:8087/udp/238.2.49.128:1234
@@ -799,6 +800,7 @@ http://195.9.195.3:8080/hls/5346.m3u8
 
 #EXTINF:-1 tvg-chno="00" group-title="ИНФО",ОБНОВЛЕНИЕ: 02.12.2025г 19:39 
 https://iptvrus.github.io/z/info.mp4
+
 
 
 
