@@ -330,7 +330,7 @@ http://stv.mediacdn.ru/live/cdn/mama/tracks-v1a1/mono.ts.m3u8
 http://194.143.148.28:8080/RTD_HD/mpegts
 
 #EXTINF:-1 tvg-chno="113" tvg-id="tekhno24" group-title="Познавательные",Техно 24
-http://217.21.34.160:38007/tehno24/index.m3u8
+http://tv.ttk.mx:9056
 
 
 
@@ -341,7 +341,7 @@ http://178.212.71.253:8002/play/a00m/index.m3u8
 http://cdn2.ntv.ru/unknown_russia/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-chno="106" tvg-id="ohota-rybalka" group-title="Познавательные",Охота и рыбалка
-http://api.peers.tv/timeshift/hafi/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjQ5OTMxMDMsImlhdCI6MTc2NDkwNjcwMywiY2lkIjo2LCJ1aWQiOjk3MTgwNDk5NiwicmVnIjpmYWxzZSwiaXAiOjM3NDYyNTI0LCJhZHVsdCI6ZmFsc2V9.jWt0PHHYLfpYBJV7xaHXaIV57Ka7_FtZGp8NsWvOHHw&offset=10
+http://193.25.8.59:8000/ohota
 
 #EXTINF:-1 tvg-chno="106" tvg-id="ohota-rybalka" group-title="Познавательные",Охотник и Рыболов HD
 http://31.148.48.15:80/Dom_Kino_Premium_HD/index.m3u8
@@ -418,7 +418,7 @@ http://31.148.48.15:80/La-Minor_TV/index.m3u8
 http://195.26.83.96:7029/play/9
 
 #EXTINF:-1 tvg-chno="143" tvg-id="bridge-russkiy-hit" group-title="Музыкальные",Bridge TV Русский Хит
-http://195.191.208.11:8087/udp/238.9.64.158:1234
+http://193.25.8.59:8000/rusong
 
 #EXTINF:-1 tvg-chno="144" tvg-id="muzyka-pervogo" group-title="Музыкальные",Музыка Первого
 http://95.163.85.128/streams/media/muzyka-pervogo_720x576/index.m3u8
@@ -474,13 +474,13 @@ https://flussonic.salomtv.uz/russkiy_detektiv/video.m3u8
 http://vod.tuva.ru/rusroman/index.m3u8
 
 #EXTINF:-1 tvg-chno="164" tvg-id="russkiy-illyuzion" group-title="Кино и сериалы",Русский Иллюзион
-http://195.64.140.147:10093/93
+http://195.26.83.96:7006/play/a00y/index.m3u8
 
 #EXTINF:-1 tvg-chno="169" tvg-id="kinopremiera" group-title="Кино и сериалы",Кинопремьера HD
 http://146.120.14.239:3001/play/a0ds
 
 #EXTINF:-1 tvg-chno="170" tvg-id="kinosemya" group-title="Кино и сериалы",Киносемья
-http://94.232.127.28:8080/kinosemja/index.m3u8
+http://2.57.217.85:8000/play/a05v/index.m3u8
 
 #EXTINF:-1 tvg-chno="164" tvg-id="kinomix" group-title="Кино и сериалы",Киномикс
 http://95.66.188.74/Kinomiks/mono.m3u8
@@ -513,8 +513,8 @@ http://45.145.32.13:20440/mama/index.m3u8?token=test
 #EXTINF:-1 tvg-chno="166" tvg-id="amedia-premium" group-title="Кино и сериалы",Amedia Premium HD
 http://45.145.32.13:20440/amedia_premium_hd/index.m3u8?token=test
 
-#EXTINF:-1 tvg-chno="214" tvg-id="tv1000-russkoe" group-title="Кино и сериалы",Viju TV1000 Русское 
-http://195.191.208.11:8087/udp/238.2.49.233:1234
+#EXTINF:-1 tvg-chno="214" tvg-id="tv1000-russkoe" group-title="Кино и сериалы",Viju TV1000 Русское кино
+http://213.169.39.30:5006
 
 #EXTINF:-1 tvg-chno="215" tvg-id="tv1000" group-title="Кино и сериалы",Viju TV1000
 http://217.11.177.56/streams/media/tv1000_720x576/index.m3u8
@@ -648,7 +648,7 @@ http://87.120.142.11:18000/Match!
 https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
 
 #EXTINF:-1 tvg-chno="125" tvg-id="match-igra" group-title="Спортивные",Матч! Игра
-http://195.191.208.11:8087/udp/238.2.49.12:1234
+http://tv.ttk.mx:9152
 
 #EXTINF:-1 tvg-chno="126" tvg-id="match-strana" group-title="Спортивные",Матч Страна
 http://95.163.85.128/streams/media/match-strana_720x576/index.m3u8
@@ -805,6 +805,7 @@ http://195.9.195.3:8080/hls/5346.m3u8
 
 #EXTINF:-1 tvg-chno="00" group-title="ИНФО",ОБНОВЛЕНИЕ: 02.12.2025г 19:39 
 https://iptvrus.github.io/z/info.mp4
+
 
 
 
