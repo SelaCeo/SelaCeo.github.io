@@ -265,7 +265,7 @@ http://193.25.8.59:8000/natgeo
 http://45.145.32.13:20440/unikum/index.m3u8?token=test
 
 #EXTINF:-1 tvg-chno="93" tvg-id="v-mire-zhivotnyh" group-title="Познавательные",В Мире Животных HD
-https://streamer1.connectto.com/513/mono.m3u8
+https://s06.watcher.uz/118/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
 
 #EXTINF:-1 tvg-chno="94" tvg-id="animalplanethd" group-title="Познавательные",Animal Planet HD
 https://vod.splay.uz/live_splay/original/Animal_Planet/tracks-v1a1/mono.m3u8
@@ -289,7 +289,7 @@ http://158.101.222.193:88/georgia_play.php?id=viasatexp
 http://146.120.14.239:3001/play/a06y
 
 #EXTINF:-1 tvg-chno="99" tvg-id="natgeo" group-title="Познавательные",National Geographic
-http://94.232.127.28:8080/natgeo/index.m3u8
+http://185.164.82.18:9010/ykMHqK_NatGeo
 
 #EXTINF:-1 tvg-chno="100" tvg-id="big-planet" group-title="Познавательные",Big Planet
 http://45.145.32.13:20440/bigplanet/index.m3u8?token=test
@@ -805,6 +805,7 @@ http://195.9.195.3:8080/hls/5346.m3u8
 
 #EXTINF:-1 tvg-chno="00" group-title="ИНФО",ОБНОВЛЕНИЕ: 02.12.2025г 19:39 
 https://iptvrus.github.io/z/info.mp4
+
 
 
 
