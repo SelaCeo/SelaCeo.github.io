@@ -155,7 +155,7 @@ http://95.66.188.74/Nostalgia/index.m3u8
 http://5.8.11.96:8099/mosfilmhd/index.m3u8
 
 #EXTINF:-1 tvg-chno="44" tvg-id="dom-kino" group-title="Кино и сериалы",Дом кино
-http://217.21.34.160:38005/domkino/index.m3u8
+http://95.66.188.74/Dom_kino/mono.m3u8
 
 #EXTINF:-1 tvg-chno="69" tvg-id="dom-kino-premium" group-title="Кино и сериалы",Дом Кино Премиум HD
 http://95.66.188.74/DomKinoPremiumHD/index.m3u8
@@ -310,7 +310,7 @@ http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v1a1/mono.ts.m3u8
 http://95.66.188.74/Arsenal_HD/index.m3u8
 
 #EXTINF:-1 tvg-chno="105" tvg-id="viju-history" group-title="Познавательные",Viju History
-http://195.191.208.11:8087/udp/238.2.49.235:1234
+http://185.78.112.57:8077/ViasatHistoryHD/index.m3u8
 
 #EXTINF:-1 tvg-chno="111" tvg-id="istoriya" group-title="Познавательные",История
 http://31.148.48.15:80/Istoriya/index.m3u8
@@ -495,7 +495,7 @@ http://146.120.14.239:3001/play/a07r
 http://178.212.71.253:8000/play/85/index.m3u8
 
 #EXTINF:-1 tvg-chno="72" tvg-id="kinoseriya" group-title="Кино и сериалы",Киносерия
-http://94.232.127.28:8080/kinoserija/index.m3u8
+http://95.66.188.74/Kinoseriya/mono.m3u8
 
 #EXTINF:-1 tvg-chno="68" tvg-id="muzhskoe-kino" group-title="Кино и сериалы",Мужское Кино
 http://146.120.14.239:3001/play/a07y
@@ -590,10 +590,10 @@ http://31.148.48.15:80/Poehali/index.m3u8
 http://193.25.8.59:8000/24Doc
 
 #EXTINF:-1 tvg-chno="195" tvg-id="hd-life" group-title="Познавательные",Точка РФ
-http://94.232.127.28:8080/hdlife/index.m3u8
+http://45.145.32.13:20440/hdl/index.m3u8?token=test
 
-#EXTINF:-1 tvg-chno="196" tvg-id="galaxy" group-title="Познавательные",Galaxy HD
-http://3.team.ga:80/ch148/mono.m3u8?token=yere3.Q312pi9i3LGd2cbZU1yqsnQ2UUs8d6sOhd-TU-DrXDbF-zACQn1LImIkMgv72uHB
+#EXTINF:-1 tvg-chno="196" tvg-id="galaxy" group-title="Познавательные",Galaxy
+http://45.145.32.13:20440/outdoor_channel/index.m3u8?token=test
 
 
 
@@ -608,10 +608,10 @@ http://3.team.ga:80/ch148/mono.m3u8?token=yere3.Q312pi9i3LGd2cbZU1yqsnQ2UUs8d6sO
 http://146.120.14.239:3001/play/a0fp
 
 #EXTINF:-1 tvg-chno="201" tvg-id="match-futbol-1" group-title="Спортивные",МАТЧ! Футбол 1 
-http://195.191.208.11:8087/udp/238.2.49.4:1234
+http://185.78.112.57:8077/football1_hd/index.m3u8
 
 #EXTINF:-1 tvg-chno="202" tvg-id="match-futbol-2" group-title="Спортивные",МАТЧ! Футбол 2
-http://195.191.208.11:8087/udp/238.2.49.15:1234
+http://185.78.112.57:8077/football2_hd/index.m3u8
 
 #EXTINF:-1 tvg-chno="203" tvg-id="match-futbol-3" group-title="Спортивные",МАТЧ! Футбол 3 HD
 http://31.148.48.15/Match_Futbol_3_HD/index.m3u8
@@ -805,6 +805,7 @@ http://195.9.195.3:8080/hls/5346.m3u8
 
 #EXTINF:-1 tvg-chno="00" group-title="ИНФО",ОБНОВЛЕНИЕ: 02.12.2025г 19:39 
 https://iptvrus.github.io/z/info.mp4
+
 
 
 
