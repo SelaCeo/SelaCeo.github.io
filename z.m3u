@@ -92,11 +92,8 @@ http://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_TNV_PLANETA_URAL/variant
 https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-chno="135" tvg-id="tlc" group-title="Развлекательные",TLC Россия HD
-http://94.232.127.28:8080/tlc/index.m3u8
-
-#EXTINF:-1 tvg-chno="135" tvg-id="tlc" group-title="Развлекательные",TLC TJK
-http://109.75.59.241:8017/TLC/index.m3u8
+#EXTINF:-1 tvg-chno="135" tvg-id="tlc" group-title="Развлекательные",TLC
+http://5.188.159.128:8070/TLC/index.m3u8
 
 #EXTINF:-1 tvg-chno="31" tvg-id="che" group-title="Развлекательные",Че
 http://31.148.48.15/Che/index.m3u8
@@ -427,7 +424,7 @@ http://95.163.85.128/streams/media/muzyka-pervogo_720x576/index.m3u8
 http://178.212.71.253:8000/play/135/index.m3u8
 
 #EXTINF:-1 tvg-chno="146" tvg-id="europa-plus" group-title="Музыкальные",Europa Plus
-http://195.64.140.147:10036/36
+http://31.148.48.15/Europa_Plus_HD/index.m3u8
 
 #EXTINF:-1 tvg-chno="147" tvg-id="bridge-tv" group-title="Музыкальные",Bridge TV
 http://178.212.71.253:8000/play/110/index.m3u8
@@ -608,10 +605,10 @@ http://45.145.32.13:20440/outdoor_channel/index.m3u8?token=test
 http://146.120.14.239:3001/play/a0fp
 
 #EXTINF:-1 tvg-chno="201" tvg-id="match-futbol-1" group-title="Спортивные",МАТЧ! Футбол 1 
-http://185.78.112.57:8077/football1_hd/index.m3u8
+http://46.151.151.250:9114
 
 #EXTINF:-1 tvg-chno="202" tvg-id="match-futbol-2" group-title="Спортивные",МАТЧ! Футбол 2
-http://185.78.112.57:8077/football2_hd/index.m3u8
+http://31.148.48.15/Match_Futbol_2_HD/mono.m3u8
 
 #EXTINF:-1 tvg-chno="203" tvg-id="match-futbol-3" group-title="Спортивные",МАТЧ! Футбол 3 HD
 http://31.148.48.15/Match_Futbol_3_HD/index.m3u8
@@ -805,6 +802,7 @@ http://195.9.195.3:8080/hls/5346.m3u8
 
 #EXTINF:-1 tvg-chno="00" group-title="ИНФО",ОБНОВЛЕНИЕ: 02.12.2025г 19:39 
 https://iptvrus.github.io/z/info.mp4
+
 
 
 
