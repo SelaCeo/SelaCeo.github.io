@@ -660,8 +660,8 @@ http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-chno="207" tvg-id="disney" group-title="Детские",Дисней
-https://s.catcast.tv/content/48693/index.m3u8?token=d7f142cca200533ec3a0eea6c06994a5
+#EXTINF:-1 tvg-chno="207" tvg-id="fox-kids" group-title="Детские",Fox Kids
+http://195.9.195.3:8080/hls/215291.m3u8
 
 #EXTINF:-1 tvg-chno="207" tvg-id="cartoon-classics" group-title="Детские",Cartoon Classics
 http://95.66.188.74/Cartoon_Classics/index.m3u8
@@ -799,6 +799,7 @@ http://195.9.195.3:8080/hls/5346.m3u8
 
 #EXTINF:-1 tvg-chno="00" group-title="ИНФО",ОБНОВЛЕНИЕ: 11.12.2025г 22:44 
 https://iptvrus.github.io/z/info.mp4
+
 
 
 
