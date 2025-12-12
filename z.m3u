@@ -661,6 +661,7 @@ http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-chno="207" tvg-id="fox-kids" group-title="Детские",Fox Kids
+#EXTVLCOPT:http-user-agent=SmartTV
 http://195.9.195.3:8080/hls/215291.m3u8
 
 #EXTINF:-1 tvg-chno="207" tvg-id="cartoon-classics" group-title="Детские",Cartoon Classics
@@ -690,12 +691,12 @@ https://russian-liveali.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFX
 
 #EXTINF:-1 tvg-chno="217" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="selecao-filmy" group-title="Кинозалы",SeleCaoTV Фильмы
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://goodgame.ru/
+#EXTVLCOPT:http-referrer=https://goodgame.ru
 http://195.9.195.3:8080/hls/163253.m3u8
 
 #EXTINF:-1 tvg-chno="218" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="Кинозалы",SeleCaoTV Сериалы
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://goodgame.ru/
+#EXTVLCOPT:http-referrer=https://goodgame.ru
 http://195.9.195.3:8080/hls/157269.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="Кинозалы",Alpha Cinema
@@ -741,6 +742,7 @@ http://195.9.195.3:8080/hls/153640.m3u8
 http://195.9.195.3:8080/hls/204708.m3u8
 
 #EXTINF:-1 tvg-logo="https://tv2free.ru/sites/default/files/styles/medium/public/tv-logo/tv-2filmax_0.jpg" group-title="Кинозалы",2FILMAX
+#EXTVLCOPT:http-user-agent=SmartTV
 http://195.9.195.3:8080/hls/204717.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/688SVFy/image-38.png" group-title="Кинозалы",Фантом
@@ -793,6 +795,7 @@ http://195.9.195.3:8080/hls/5346.m3u8
 
 #EXTINF:-1 tvg-chno="00" group-title="ИНФО",ОБНОВЛЕНИЕ: 11.12.2025г 22:44 
 https://iptvrus.github.io/z/info.mp4
+
 
 
 
