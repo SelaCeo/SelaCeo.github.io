@@ -694,9 +694,6 @@ http://195.9.195.3:8080/hls/163253.m3u8
 #EXTINF:-1 tvg-chno="218" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="Кинозалы",SeleCaoTV Сериалы
 http://195.9.195.3:8080/hls/157269.m3u8
 
-#EXTINF:-1 tvg-chno="219" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="Кинозалы",Aниме TB
-http://195.9.195.3:8080/hls/171547.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="Кинозалы",Alpha Cinema
 http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
 
@@ -722,10 +719,6 @@ http://sochinskayatrk.ru/hdtv/hls/CTPK_400/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.goodgame.ru/files/avatars/av_1676704_9wc1.jpg" group-title="Кинозалы",Moviee Toper
 #EXTVLCOPT:http-user-agent=SmartTV
 http://195.9.195.3:8080/hls/214749.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.goodgame.ru/files/avatars/av_1651532_atYl.jpg" group-title="Кинозалы",Kino Jam
-#EXTVLCOPT:http-user-agent=SmartTV
-http://195.9.195.3:8080/hls/210182.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.goodgame.ru/files/avatars/av_avatar_hum.png" group-title="Кинозалы",КиноФраншизы 24/7
 #EXTVLCOPT:http-user-agent=SmartTV
@@ -789,9 +782,6 @@ https://live20.bozztv.com/akamaissh101/ssh101/kucunucum9ym9y/chunks.m3u8
 #EXTINF:-1 tvg-chno="218" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="ТЕСТ",SeleCaoTV Сериалы (зеркало)
 https://live20.bozztv.com/akamaissh101/ssh101/esperanza/chunks.m3u8
 
-#EXTINF:-1 tvg-chno="219" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="ТЕСТ",Aниме TB (зеркало)
-https://live20.bozztv.com/akamaissh101/ssh101/kucunucum9ym9yy/chunks.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wrC4Bs07/image-20.png" tvg-id="" group-title="ТЕСТ",Akudji
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://195.9.195.3:8080/hls/5346.m3u8
@@ -799,6 +789,7 @@ http://195.9.195.3:8080/hls/5346.m3u8
 
 #EXTINF:-1 tvg-chno="00" group-title="ИНФО",ОБНОВЛЕНИЕ: 11.12.2025г 22:44 
 https://iptvrus.github.io/z/info.mp4
+
 
 
 
